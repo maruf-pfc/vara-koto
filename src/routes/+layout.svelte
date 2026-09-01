@@ -1,14 +1,20 @@
 <script lang="ts">
 	import './layout.css';
+	import { browser } from '$app/environment';
 	import Header from '$lib/components/layout/Header.svelte';
 	import Footer from '$lib/components/layout/Footer.svelte';
 	import { locale } from '$lib/i18n';
 
 	let { children } = $props();
+
+	$effect(() => {
+		if (browser) {
+			document.documentElement.lang = $locale;
+		}
+	});
 </script>
 
 <svelte:head>
-	<html lang={$locale}></html>
 	<meta name="theme-color" content="#047857" />
 	<meta
 		name="description"
