@@ -8,6 +8,7 @@
 </script>
 
 <svelte:head>
+	<html lang={$locale}></html>
 	<meta name="theme-color" content="#047857" />
 	<meta
 		name="description"
