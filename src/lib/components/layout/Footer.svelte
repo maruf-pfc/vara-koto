@@ -74,7 +74,7 @@
 					</li>
 					<li>
 						<a
-							href="https://github.com/maruf-pfc/vara-koto"
+							href="https://github.com/maruf-pfc/busvarafinder"
 							target="_blank"
 							rel="noopener noreferrer"
 							class="inline-flex items-center gap-1.5 transition hover:text-emerald-700"

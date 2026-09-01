@@ -24,8 +24,8 @@ Thank you for your interest in contributing to **Dhaka Bus Vara**! This is an op
 1. **Fork & Clone**:
 
    ```bash
-   git clone https://github.com/your-username/vara-koto.git
-   cd vara-koto
+   git clone https://github.com/your-username/busvarafinder.git
+   cd busvarafinder
    git checkout -b feat/your-feature-name
    ```
 

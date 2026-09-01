@@ -116,7 +116,7 @@
 		</p>
 		<div class="pt-2">
 			<a
-				href="https://github.com/maruf-pfc/vara-koto"
+				href="https://github.com/maruf-pfc/busvarafinder"
 				target="_blank"
 				rel="noopener noreferrer"
 				class="inline-flex items-center gap-2 rounded-xl bg-emerald-600 px-5 py-2.5 text-xs font-bold text-white transition hover:bg-emerald-500"

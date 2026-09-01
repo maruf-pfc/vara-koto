@@ -100,7 +100,7 @@
 
 			<!-- GitHub Link -->
 			<a
-				href="https://github.com/maruf-pfc/vara-koto"
+				href="https://github.com/maruf-pfc/busvarafinder"
 				target="_blank"
 				rel="noopener noreferrer"
 				class="hidden h-9 w-9 items-center justify-center rounded-lg border border-slate-200 text-slate-600 transition hover:bg-slate-100 hover:text-slate-900 sm:flex"

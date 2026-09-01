@@ -67,7 +67,7 @@
 			</div>
 
 			<a
-				href="https://github.com/maruf-pfc/vara-koto/issues/new?title=Fare+Update:+[Bus+Name]&body=**Bus:**+%0A**From:**+%0A**To:**+%0A**New+Fare:**+%0A**Evidence/Source:**+"
+				href="https://github.com/maruf-pfc/busvarafinder/issues/new?title=Fare+Update:+[Bus+Name]&body=**Bus:**+%0A**From:**+%0A**To:**+%0A**New+Fare:**+%0A**Evidence/Source:**+"
 				target="_blank"
 				rel="noopener noreferrer"
 				class="inline-flex items-center justify-center gap-1.5 rounded-xl border border-slate-200 bg-slate-50 px-3.5 py-2 text-xs font-semibold text-slate-700 transition hover:border-emerald-300 hover:bg-emerald-50 hover:text-emerald-800"
@@ -98,7 +98,7 @@
 			</div>
 
 			<a
-				href="https://github.com/maruf-pfc/vara-koto/issues/new?title=Route+Correction:+[Bus+Name]&body=**Bus:**+%0A**Incorrect+Stops:**+%0A**Corrected+Sequence:**+%0A**Details:**+"
+				href="https://github.com/maruf-pfc/busvarafinder/issues/new?title=Route+Correction:+[Bus+Name]&body=**Bus:**+%0A**Incorrect+Stops:**+%0A**Corrected+Sequence:**+%0A**Details:**+"
 				target="_blank"
 				rel="noopener noreferrer"
 				class="inline-flex items-center justify-center gap-1.5 rounded-xl border border-slate-200 bg-slate-50 px-3.5 py-2 text-xs font-semibold text-slate-700 transition hover:border-emerald-300 hover:bg-emerald-50 hover:text-emerald-800"
@@ -129,7 +129,7 @@
 			</div>
 
 			<a
-				href="https://github.com/maruf-pfc/vara-koto/issues/new?title=New+Bus+Request:+[Bus+Name]&body=**Bus+Name+(English+%26+Bangla):**+%0A**Service+Type+(Regular/Seating/AC):**+%0A**Origin:**+%0A**Destination:**+%0A**All+Intermediate+Stops:**+%0A**Operating+Hours:**+"
+				href="https://github.com/maruf-pfc/busvarafinder/issues/new?title=New+Bus+Request:+[Bus+Name]&body=**Bus+Name+(English+%26+Bangla):**+%0A**Service+Type+(Regular/Seating/AC):**+%0A**Origin:**+%0A**Destination:**+%0A**All+Intermediate+Stops:**+%0A**Operating+Hours:**+"
 				target="_blank"
 				rel="noopener noreferrer"
 				class="inline-flex items-center justify-center gap-1.5 rounded-xl border border-slate-200 bg-slate-50 px-3.5 py-2 text-xs font-semibold text-slate-700 transition hover:border-emerald-300 hover:bg-emerald-50 hover:text-emerald-800"
@@ -157,7 +157,7 @@
 			class="space-y-1 overflow-x-auto rounded-xl bg-slate-900 p-4 font-mono text-xs text-slate-100"
 		>
 			<div>
-				<span class="text-emerald-400">git</span> clone https://github.com/maruf-pfc/vara-koto.git
+				<span class="text-emerald-400">git</span> clone https://github.com/maruf-pfc/busvarafinder.git
 			</div>
 			<div><span class="text-emerald-400">npm</span> install</div>
 			<div>

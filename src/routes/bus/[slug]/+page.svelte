@@ -47,7 +47,7 @@
 		const body = encodeURIComponent(
 			`**Bus:** ${data.bus.name} (${data.bus.slug})\n\n**Requested Correction:**\n(Please describe missing stops or incorrect routes)`
 		);
-		return `https://github.com/maruf-pfc/vara-koto/issues/new?title=${title}&body=${body}`;
+		return `https://github.com/maruf-pfc/busvarafinder/issues/new?title=${title}&body=${body}`;
 	});
 </script>
 

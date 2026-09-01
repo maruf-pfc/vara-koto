@@ -1,6 +1,6 @@
 # Dhaka Bus Vara (ঢাকা বাস ভাড়া)
 
-[![CI](https://github.com/maruf-pfc/vara-koto/actions/workflows/ci.yml/badge.svg)](https://github.com/maruf-pfc/vara-koto/actions)
+[![CI](https://github.com/maruf-pfc/busvarafinder/actions/workflows/ci.yml/badge.svg)](https://github.com/maruf-pfc/busvarafinder/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](LICENSE)
 [![SvelteKit](https://img.shields.io/badge/SvelteKit-2.x-orange.svg)](https://kit.svelte.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg)](https://www.typescriptlang.org)
@@ -8,6 +8,10 @@
 **Dhaka Bus Vara** ([busvarafinder.vercel.app](https://busvarafinder.vercel.app)) is a production-quality, mobile-first, open-source transit web application designed for commuters in **Dhaka, Bangladesh** to search public bus routes, calculate exact ticket fares, view stop timelines, and explore bus and location directories in both English and Bengali (বাংলা).
 
 - 🌐 **Live Website**: [https://busvarafinder.vercel.app](https://busvarafinder.vercel.app)
+
+<p align="center">
+  <img src="static/demo.webp" alt="Dhaka Bus Vara Preview" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);" />
+</p>
 
 ---
 
@@ -49,8 +53,8 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/maruf-pfc/vara-koto.git
-cd vara-koto
+git clone https://github.com/maruf-pfc/busvarafinder.git
+cd busvarafinder
 
 # Install dependencies
 npm install

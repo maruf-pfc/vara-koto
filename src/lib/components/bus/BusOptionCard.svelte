@@ -76,7 +76,7 @@
 		const body = encodeURIComponent(
 			`**Bus:** ${option.bus.name} (${option.bus.slug})\n**Route:** ${option.fromLocation.name} (${option.fromLocation.slug}) -> ${option.toLocation.name} (${option.toLocation.slug})\n**Current Fare Shown:** ৳${option.fare.fareMin} - ৳${option.fare.fareMax}\n\n**Correction Details:**\n(Please describe the correct fare or route)`
 		);
-		return `https://github.com/maruf-pfc/vara-koto/issues/new?title=${title}&body=${body}`;
+		return `https://github.com/maruf-pfc/busvarafinder/issues/new?title=${title}&body=${body}`;
 	});
 </script>
 
