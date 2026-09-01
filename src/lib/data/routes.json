@@ -1,0 +1,4842 @@
+[
+	{
+		"id": "route-achim-main",
+		"busId": "achim",
+		"name": "Gabtoli to Demra Staff Quarter",
+		"nameBn": "গাবতলী হতে ডেমরা স্টাফ কোয়ার্টার",
+		"originId": "gabtoli",
+		"destinationId": "demra",
+		"stops": [
+			{
+				"locationId": "gabtoli",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "technical",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "ansar-camp",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-1",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-2",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-10",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-11",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kalshi",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "ecb-square",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kuril-bishwa-road",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bashundhara-gate",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "notun-bazar",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shahjadpur",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "badda",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "rampura",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "banasree",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "demra",
+				"order": 17,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 25.5,
+		"notes": "Runs from Gabtoli to Demra Staff Quarter via Mirpur 1, Mirpur 10, Kalshi, Kuril, Notun Bazar, Badda, Rampura, and Banasree.",
+		"notesBn": "গাবতলী থেকে মিরপুর ১, মিরপুর ১০, কালশী, কুড়িল, নতুন বাজার, বাড্ডা, রামপুরা ও বনশ্রী হয়ে ডেমরা স্টাফ কোয়ার্টার চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-active-main",
+		"busId": "active",
+		"name": "Shia Masjid to Uttara (Abdullahpur)",
+		"nameBn": "শিয়া মসজিদ হতে উত্তরা (আব্দুল্লাহপুর)",
+		"originId": "shia-masjid",
+		"destinationId": "uttara-abdullahpur",
+		"stops": [
+			{
+				"locationId": "shia-masjid",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "adabor",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shyamoli",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "technical",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "ansar-camp",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-1",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-2",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-10",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-11",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kalshi",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "ecb-square",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kuril-bishwa-road",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "khilkhet",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "airport",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-joshimuddin",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-azampur",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-house-building",
+				"order": 17,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-abdullahpur",
+				"order": 18,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 27,
+		"notes": "Connects Shia Masjid / Shyamoli with Mirpur 10, Kalshi, Kuril, Airport and Abdullahpur.",
+		"notesBn": "শিয়া মসজিদ ও শ্যামলী থেকে মিরপুর ১০, কালশী, কুড়িল, বিমানবন্দর হয়ে আব্দুল্লাহপুর চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-agradut-main",
+		"busId": "agradut",
+		"name": "Savar to Notun Bazar",
+		"nameBn": "সাভার হতে নতুন বাজার",
+		"originId": "savar",
+		"destinationId": "notun-bazar",
+		"stops": [
+			{
+				"locationId": "savar",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "hemayetpur",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gabtoli",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "technical",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kallyanpur",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shyamoli",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shishu-mela",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "agargaon",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bijoy-sarani",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "jahangir-gate",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mohakhali",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gulshan-1",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "badda",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shahjadpur",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "notun-bazar",
+				"order": 15,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 22.5,
+		"notes": "Runs from Savar and Gabtoli via Shyamoli, Agargaon, Bijoy Sarani, Mohakhali, Gulshan 1, Badda to Notun Bazar.",
+		"notesBn": "সাভার ও গাবতলী থেকে শ্যামলী, আগারগাঁও, মহাখালী, গুলশান ১ ও বাড্ডা হয়ে নতুন বাজার চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-airport-bangabandhu-avenue-main",
+		"busId": "airport-bangabandhu-avenue",
+		"name": "Fulbaria to Uttara (Abdullahpur)",
+		"nameBn": "ফুলবাড়িয়া হতে উত্তরা (আব্দুল্লাহপুর)",
+		"originId": "fulbaria",
+		"destinationId": "uttara-abdullahpur",
+		"stops": [
+			{
+				"locationId": "fulbaria",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gulistan",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "paltan",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "press-club",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "high-court",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "matsya-bhaban",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shahbag",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "banglamotor",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "karwan-bazar",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "farmgate",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bijoy-sarani",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "jahangir-gate",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mohakhali",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "banani",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kuril-bishwa-road",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "khilkhet",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "airport",
+				"order": 17,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-joshimuddin",
+				"order": 18,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-house-building",
+				"order": 19,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-abdullahpur",
+				"order": 20,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 30,
+		"notes": "Direct artery connecting Fulbaria / Gulistan / Motijheel to Shahbag, Farmgate, Mohakhali, Banani, Airport and Abdullahpur.",
+		"notesBn": "ফুলবাড়িয়া ও গুলিস্তান থেকে পল্টন, শাহবাগ, ফার্মগেট, মহাখালী, বনানী ও বিমানবন্দর হয়ে আব্দুল্লাহপুর চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-azmeri-glory-main",
+		"busId": "azmeri-glory",
+		"name": "Sadarghat to Tongi",
+		"nameBn": "সদরঘাট হতে টঙ্গী",
+		"originId": "sadarghat",
+		"destinationId": "tongi",
+		"stops": [
+			{
+				"locationId": "sadarghat",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "ray-saheb-bazar",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "naya-bazar",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gulistan",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "paltan",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kakrail",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shantinagar",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "malibagh",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mouchak",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "nabisco",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mohakhali",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "banani",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kuril-bishwa-road",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "khilkhet",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "airport",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-joshimuddin",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-azampur",
+				"order": 17,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-house-building",
+				"order": 18,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-abdullahpur",
+				"order": 19,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "tongi",
+				"order": 20,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 30,
+		"notes": "Connects Sadarghat / Gulistan to Kakrail, Malibagh, Mouchak, Mohakhali, Banani, Kuril, Airport, Uttara, Tongi and Gazipur.",
+		"notesBn": "সদরঘাট ও গুলিস্তান থেকে মালিবাগ, মৌচাক, মহাখালী, বনানী, কুড়িল, বিমানবন্দর, উত্তরা ও টঙ্গী হয়ে গাজীপুর চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-akash-main",
+		"busId": "akash",
+		"name": "Babubazar to Tongi",
+		"nameBn": "বাবুবাজার হতে টঙ্গী",
+		"originId": "babubazar",
+		"destinationId": "tongi",
+		"stops": [
+			{
+				"locationId": "babubazar",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "naya-bazar",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gulistan",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "paltan",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kakrail",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shantinagar",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "malibagh",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mouchak",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "rampura",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "badda",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shahjadpur",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "notun-bazar",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bashundhara-gate",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kuril-bishwa-road",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "khilkhet",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "airport",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-joshimuddin",
+				"order": 17,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-azampur",
+				"order": 18,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-house-building",
+				"order": 19,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-abdullahpur",
+				"order": 20,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "tongi",
+				"order": 21,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 31.5,
+		"notes": "Connects Babubazar, Gulistan, Paltan, Kakrail, Malibagh, Rampura, Badda, Notun Bazar, Kuril, Airport, and Uttara.",
+		"notesBn": "বাবুবাজার, গুলিস্তান, পল্টন, কাকরাইল, মালিবাগ, রামপুরা, বাড্ডা, নতুন বাজার, কুড়িল, বিমানবন্দর ও উত্তরা চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-victor-classic-main",
+		"busId": "victor-classic",
+		"name": "Sadarghat to Kuril Bishwa Road",
+		"nameBn": "সদরঘাট হতে কুড়িল বিশ্বরোড",
+		"originId": "sadarghat",
+		"destinationId": "kuril-bishwa-road",
+		"stops": [
+			{
+				"locationId": "sadarghat",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "ray-saheb-bazar",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "naya-bazar",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gulistan",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "paltan",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kakrail",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shantinagar",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "malibagh",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mouchak",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "rampura",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "badda",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shahjadpur",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "notun-bazar",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bashundhara-gate",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kuril-bishwa-road",
+				"order": 15,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 22.5,
+		"notes": "Arterial link from Sadarghat and Gulistan through Kakrail, Malibagh, Rampura, Badda, Notun Bazar to Kuril Bishwa Road.",
+		"notesBn": "সদরঘাট ও গুলিস্তান থেকে পল্টন, কাকরাইল, মালিবাগ, রামপুরা, বাড্ডা, নতুন বাজার হয়ে কুড়িল বিশ্বরোড চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-victor-paribahan-main",
+		"busId": "victor-paribahan",
+		"name": "Sadarghat to Kuril Bishwa Road",
+		"nameBn": "সদরঘাট হতে কুড়িল বিশ্বরোড",
+		"originId": "sadarghat",
+		"destinationId": "kuril-bishwa-road",
+		"stops": [
+			{
+				"locationId": "sadarghat",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "ray-saheb-bazar",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "naya-bazar",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gulistan",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "paltan",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kakrail",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shantinagar",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "malibagh",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mouchak",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "rampura",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "badda",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shahjadpur",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "notun-bazar",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bashundhara-gate",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kuril-bishwa-road",
+				"order": 15,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 22.5,
+		"notes": "Runs from Sadarghat / Gulistan through Malibagh, Rampura, Badda to Kuril Bishwa Road.",
+		"notesBn": "সদরঘাট ও গুলিস্তান থেকে পল্টন, মালিবাগ, রামপুরা, বাড্ডা হয়ে কুড়িল বিশ্বরোড চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-supravat-main",
+		"busId": "supravat",
+		"name": "Sadarghat to Tongi",
+		"nameBn": "সদরঘাট হতে টঙ্গী",
+		"originId": "sadarghat",
+		"destinationId": "tongi",
+		"stops": [
+			{
+				"locationId": "sadarghat",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "ray-saheb-bazar",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gulistan",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "paltan",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kakrail",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shantinagar",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "malibagh",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mouchak",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "rampura",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "badda",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shahjadpur",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "notun-bazar",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bashundhara-gate",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kuril-bishwa-road",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "khilkhet",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "airport",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-joshimuddin",
+				"order": 17,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-azampur",
+				"order": 18,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-house-building",
+				"order": 19,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-abdullahpur",
+				"order": 20,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "tongi",
+				"order": 21,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 31.5,
+		"notes": "Connects Sadarghat / Gulistan via Malibagh, Rampura, Badda, Notun Bazar, Kuril, Airport, Uttara and Tongi.",
+		"notesBn": "সদরঘাট ও গুলিস্তান থেকে মালিবাগ, রামপুরা, বাড্ডা, নতুন বাজার, কুড়িল, বিমানবন্দর, উত্তরা ও টঙ্গী চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-anabil-super-main",
+		"busId": "anabil-super",
+		"name": "Signboard to Tongi",
+		"nameBn": "সাইনবোর্ড হতে টঙ্গী",
+		"originId": "signboard",
+		"destinationId": "tongi",
+		"stops": [
+			{
+				"locationId": "signboard",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "jatrabari",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mugdapara",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bashabo",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "khilgaon",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "malibagh",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "rampura",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "badda",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shahjadpur",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "notun-bazar",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bashundhara-gate",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kuril-bishwa-road",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "khilkhet",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "airport",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-joshimuddin",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-azampur",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-house-building",
+				"order": 17,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-abdullahpur",
+				"order": 18,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "tongi",
+				"order": 19,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 28.5,
+		"notes": "Connects Signboard and Jatrabari to Khilgaon, Malibagh, Rampura, Badda, Notun Bazar, Kuril, Airport, Uttara, and Tongi.",
+		"notesBn": "সাইনবোর্ড ও যাত্রাবাড়ী থেকে খিলগাঁও, মালিবাগ, রামপুরা, বাড্ডা, নতুন বাজার, কুড়িল, বিমানবন্দর, উত্তরা ও টঙ্গী চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-raida-main",
+		"busId": "raida",
+		"name": "Postogola to Uttara (House Building)",
+		"nameBn": "পোস্তগোলা হতে উত্তরা (হাউজ বিল্ডিং)",
+		"originId": "postogola",
+		"destinationId": "uttara-house-building",
+		"stops": [
+			{
+				"locationId": "postogola",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "dholairpar",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "jatrabari",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "sayedabad",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mugdapara",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bashabo",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "khilgaon",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "malibagh",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "rampura",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "badda",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "notun-bazar",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bashundhara-gate",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kuril-bishwa-road",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "khilkhet",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "airport",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-joshimuddin",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-azampur",
+				"order": 17,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-house-building",
+				"order": 18,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 27,
+		"notes": "Connects Postogola and Jatrabari to Sayedabad, Mugdapara, Bashabo, Khilgaon, Rampura, Badda, Notun Bazar, Kuril, Airport, and Uttara.",
+		"notesBn": "পোস্তগোলা ও যাত্রাবাড়ী থেকে সায়েদাবাদ, খিলগাঁও, রামপুরা, বাড্ডা, নতুন বাজার, কুড়িল, বিমানবন্দর ও উত্তরা চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-bahon-main",
+		"busId": "bahon",
+		"name": "Mirpur 14 to Khilgaon",
+		"nameBn": "মিরপুর ১৪ হতে খিলগাঁও",
+		"originId": "mirpur-14",
+		"destinationId": "khilgaon",
+		"stops": [
+			{
+				"locationId": "mirpur-14",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-10",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-2",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-1",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "ansar-camp",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bangla-college",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "technical",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kallyanpur",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shyamoli",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "asad-gate",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "dhanmondi-27",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "dhanmondi-32",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kalabagan",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "science-lab",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "katabon",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shahbag",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "high-court",
+				"order": 17,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "press-club",
+				"order": 18,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "paltan",
+				"order": 19,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "dainik-bangla",
+				"order": 20,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "motijheel",
+				"order": 21,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "arambagh",
+				"order": 22,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kamalapur",
+				"order": 23,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mugdapara",
+				"order": 24,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bashabo",
+				"order": 25,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "khilgaon",
+				"order": 26,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 39,
+		"notes": "Connects Mirpur 14/10/1 via Technical, Shyamoli, Asad Gate, Dhanmondi 27/32, Science Lab, Shahbag, Press Club, Paltan, Motijheel, Kamalapur to Khilgaon.",
+		"notesBn": "মিরপুর ১৪, ১০ ও ১ থেকে শ্যামলী, আসাদ গেট, ধানমন্ডি, সায়েন্স ল্যাব, শাহবাগ, পল্টন, মতিঝিল ও কমলাপুর হয়ে খিলগাঁও চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-bikalpa-auto-main",
+		"busId": "bikalpa-auto",
+		"name": "Mirpur 12 to Motijheel",
+		"nameBn": "মিরপুর ১২ হতে মতিঝিল",
+		"originId": "mirpur-12",
+		"destinationId": "motijheel",
+		"stops": [
+			{
+				"locationId": "mirpur-12",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "pallabi",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-11",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-10",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kazipara",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shewrapara",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "agargaon",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bijoy-sarani",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "farmgate",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "karwan-bazar",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "banglamotor",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shahbag",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "matsya-bhaban",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "high-court",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "press-club",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "paltan",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gpo",
+				"order": 17,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gulistan",
+				"order": 18,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "motijheel",
+				"order": 19,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 28.5,
+		"notes": "Runs from Mirpur 12 to Motijheel via Mirpur 10, Kazipara, Agargaon, Farmgate, Shahbag, Paltan and Gulistan.",
+		"notesBn": "মিরপুর ১২ থেকে মিরপুর ১০, কাজীপাড়া, ফার্মগেট, শাহবাগ, পল্টন ও গুলিস্তান হয়ে মতিঝিল চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-bikalpa-super-main",
+		"busId": "bikalpa-super",
+		"name": "Mirpur 12 to Dhakeshwari",
+		"nameBn": "মিরপুর ১২ হতে ঢাকেশ্বরী",
+		"originId": "mirpur-12",
+		"destinationId": "dhakeshwari",
+		"stops": [
+			{
+				"locationId": "mirpur-12",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "pallabi",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-11",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-10",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kazipara",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shewrapara",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "agargaon",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shyamoli",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shishu-mela",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "college-gate",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "asad-gate",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "dhanmondi-27",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "dhanmondi-32",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kalabagan",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "science-lab",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "city-college",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "new-market",
+				"order": 17,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "nilkhet",
+				"order": 18,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "azimpur",
+				"order": 19,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "dhakeshwari",
+				"order": 20,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 30,
+		"notes": "Runs from Mirpur 12 to Azimpur via Mirpur 10, Agargaon, Shyamoli, Asad Gate, Dhanmondi 27/32, Science Lab, New Market, and Nilkhet.",
+		"notesBn": "মিরপুর ১২ থেকে মিরপুর ১০, শ্যামলী, আসাদ গেট, ধানমন্ডি, সায়েন্স ল্যাব, নিউ মার্কেট ও আজিমপুর চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-bihanga-main",
+		"busId": "bihanga",
+		"name": "Mirpur 12 to Notun Bazar",
+		"nameBn": "মিরপুর ১২ হতে নতুন বাজার",
+		"originId": "mirpur-12",
+		"destinationId": "notun-bazar",
+		"stops": [
+			{
+				"locationId": "mirpur-12",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-11",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-10",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kazipara",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shewrapara",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "agargaon",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bijoy-sarani",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "jahangir-gate",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mohakhali",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gulshan-1",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "badda",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "notun-bazar",
+				"order": 12,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 18,
+		"notes": "Connects Mirpur 12/10 to Agargaon, Mohakhali, Gulshan 1, Badda and Notun Bazar.",
+		"notesBn": "মিরপুর ১২/১০ থেকে আগারগাঁও, মহাখালী, গুলশান ১ ও বাড্ডা হয়ে নতুন বাজার চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-basumati-transport-main",
+		"busId": "basumati-transport",
+		"name": "Gabtoli to Tongi",
+		"nameBn": "গাবতলী হতে টঙ্গী",
+		"originId": "gabtoli",
+		"destinationId": "tongi",
+		"stops": [
+			{
+				"locationId": "gabtoli",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-1",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-2",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-10",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-11",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kalshi",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "ecb-square",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kuril-bishwa-road",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "khilkhet",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "airport",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-joshimuddin",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-azampur",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-house-building",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-abdullahpur",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "tongi",
+				"order": 15,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 22.5,
+		"notes": "Connects Gabtoli, Mirpur 1, Mirpur 10, Kalshi, Kuril, Airport, Uttara and Tongi.",
+		"notesBn": "গাবতলী, মিরপুর ১ ও ১০ থেকে কালশী, কুড়িল, বিমানবন্দর, উত্তরা ও টঙ্গী চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-savar-paribahan-main",
+		"busId": "savar-paribahan",
+		"name": "Sadarghat to Savar",
+		"nameBn": "সদরঘাট হতে সাভার",
+		"originId": "sadarghat",
+		"destinationId": "savar",
+		"stops": [
+			{
+				"locationId": "sadarghat",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gulistan",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "paltan",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "press-club",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "high-court",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "matsya-bhaban",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shahbag",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "science-lab",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kalabagan",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "dhanmondi-32",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "dhanmondi-27",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "asad-gate",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "college-gate",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shishu-mela",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shyamoli",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kallyanpur",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "technical",
+				"order": 17,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gabtoli",
+				"order": 18,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "hemayetpur",
+				"order": 19,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "savar",
+				"order": 20,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 30,
+		"notes": "Runs from Sadarghat and Gulistan to Shahbag, Science Lab, Dhanmondi 32/27, Asad Gate, Shyamoli, Gabtoli, Hemayetpur and Savar.",
+		"notesBn": "সদরঘাট ও গুলিস্তান থেকে শাহবাগ, সায়েন্স ল্যাব, ধানমন্ডি, আসাদ গেট, শ্যামলী, গাবতলী ও হেমায়েতপুর হয়ে সাভার চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-shadhin-express-main",
+		"busId": "shadhin-express",
+		"name": "Mirpur 12 to Maowa",
+		"nameBn": "মিরপুর ১২ হতে মাওয়া",
+		"originId": "mirpur-12",
+		"destinationId": "maowa",
+		"stops": [
+			{
+				"locationId": "mirpur-12",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "pallabi",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-11",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-10",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kazipara",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shewrapara",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "agargaon",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "farmgate",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "karwan-bazar",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "banglamotor",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shahbag",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "press-club",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "paltan",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gulistan",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "babubazar",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "keraniganj",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "maowa",
+				"order": 17,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 25.5,
+		"notes": "Runs from Mirpur 12/10 through Agargaon, Farmgate, Shahbag, Press Club, Paltan, Gulistan to Keraniganj and Maowa.",
+		"notesBn": "মিরপুর ১২/১০ থেকে আগারগাঁও, ফার্মগেট, শাহবাগ, পল্টন ও গুলিস্তান হয়ে কেরাণীগঞ্জ ও মাওয়া চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-shadhin-main",
+		"busId": "shadhin",
+		"name": "Bosila to Demra Staff Quarter",
+		"nameBn": "বসিলা হতে ডেমরা স্টাফ কোয়ার্টার",
+		"originId": "bosila",
+		"destinationId": "demra",
+		"stops": [
+			{
+				"locationId": "bosila",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mohammadpur",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "asad-gate",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "farmgate",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "karwan-bazar",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "banglamotor",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mogbazar",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mouchak",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "malibagh",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "rampura",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "banasree",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "demra",
+				"order": 12,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 18,
+		"notes": "Connects Bosila and Mohammadpur to Farmgate, Mogbazar, Mouchak, Malibagh, Rampura, Banasree and Demra Staff Quarter.",
+		"notesBn": "বসিলা ও মোহাম্মদপুর থেকে ফার্মগেট, মগবাজার, মৌচাক, মালিবাগ, রামপুরা ও বনশ্রী হয়ে ডেমরা স্টাফ কোয়ার্টার চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-turag-main",
+		"busId": "turag",
+		"name": "Jatrabari to Tongi",
+		"nameBn": "যাত্রাবাড়ী হতে টঙ্গী",
+		"originId": "jatrabari",
+		"destinationId": "tongi",
+		"stops": [
+			{
+				"locationId": "jatrabari",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "sayedabad",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mugdapara",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bashabo",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "khilgaon",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "malibagh",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "rampura",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "badda",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shahjadpur",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "notun-bazar",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bashundhara-gate",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kuril-bishwa-road",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "khilkhet",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "airport",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-joshimuddin",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-azampur",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-house-building",
+				"order": 17,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-abdullahpur",
+				"order": 18,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "tongi",
+				"order": 19,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 28.5,
+		"notes": "Connects Jatrabari and Sayedabad to Khilgaon, Malibagh, Rampura, Badda, Notun Bazar, Kuril, Airport, Uttara, and Tongi.",
+		"notesBn": "যাত্রাবাড়ী ও সায়েদাবাদ থেকে খিলগাঁও, মালিবাগ, রামপুরা, বাড্ডা, নতুন বাজার, কুড়িল, বিমানবন্দর, উত্তরা ও টঙ্গী চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-midline-main",
+		"busId": "midline",
+		"name": "Mohammadpur to Khilgaon",
+		"nameBn": "মোহাম্মদপুর হতে খিলগাঁও",
+		"originId": "mohammadpur",
+		"destinationId": "khilgaon",
+		"stops": [
+			{
+				"locationId": "mohammadpur",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shankar",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "dhanmondi-15",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "jigatola",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "city-college",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "science-lab",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "katabon",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shahbag",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "matsya-bhaban",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "press-club",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "paltan",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gulistan",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "motijheel",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "arambagh",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kamalapur",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bashabo",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "khilgaon",
+				"order": 17,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 25.5,
+		"notes": "Connects Mohammadpur via Shankar, Jigatola, Science Lab, Shahbag, Press Club, Paltan, Gulistan, Motijheel, Kamalapur to Khilgaon.",
+		"notesBn": "মোহাম্মদপুর থেকে শঙ্কর, জিগাতলা, সায়েন্স ল্যাব, শাহবাগ, পল্টন, গুলিস্তান, মতিঝিল ও কমলাপুর হয়ে খিলগাঁও চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-thikana-main",
+		"busId": "thikana",
+		"name": "Signboard to Savar",
+		"nameBn": "সাইনবোর্ড হতে সাভার",
+		"originId": "signboard",
+		"destinationId": "savar",
+		"stops": [
+			{
+				"locationId": "signboard",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "jatrabari",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "sayedabad",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gulistan",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "chankhar-pul",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bakshi-bazar",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "dhakeshwari",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "azimpur",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "nilkhet",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "new-market",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "science-lab",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kalabagan",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "dhanmondi-32",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "dhanmondi-27",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "asad-gate",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "college-gate",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shishu-mela",
+				"order": 17,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shyamoli",
+				"order": 18,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kallyanpur",
+				"order": 19,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "technical",
+				"order": 20,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gabtoli",
+				"order": 21,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "hemayetpur",
+				"order": 22,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "savar",
+				"order": 23,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 34.5,
+		"notes": "Connects Signboard and Jatrabari to Gulistan, Azimpur, Science Lab, Dhanmondi 32/27, Asad Gate, Shyamoli, Gabtoli and Savar.",
+		"notesBn": "সাইনবোর্ড ও যাত্রাবাড়ী থেকে গুলিস্তান, আজিমপুর, সায়েন্স ল্যাব, ধানমন্ডি, আসাদ গেট, শ্যামলী, গাবতলী ও সাভার চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-shikhor-main",
+		"busId": "shikhor",
+		"name": "Mirpur 12 to Jatrabari",
+		"nameBn": "মিরপুর ১২ হতে যাত্রাবাড়ী",
+		"originId": "mirpur-12",
+		"destinationId": "jatrabari",
+		"stops": [
+			{
+				"locationId": "mirpur-12",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "pallabi",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-11",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-10",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kazipara",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shewrapara",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "agargaon",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bijoy-sarani",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "farmgate",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "karwan-bazar",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "banglamotor",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shahbag",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "matsya-bhaban",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "high-court",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "press-club",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "paltan",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gpo",
+				"order": 17,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gulistan",
+				"order": 18,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "janapoth-moor",
+				"order": 19,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "jatrabari",
+				"order": 20,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 30,
+		"notes": "Connects Mirpur 12/10 via Agargaon, Farmgate, Shahbag, Press Club, Paltan, Gulistan to Jatrabari.",
+		"notesBn": "মিরপুর ১২ ও ১০ থেকে আগারগাঁও, ফার্মগেট, শাহবাগ, প্রেস ক্লাব, পল্টন ও গুলিস্তান হয়ে যাত্রাবাড়ী চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-green-dhaka-main",
+		"busId": "green-dhaka",
+		"name": "Motijheel to Uttara (Abdullahpur)",
+		"nameBn": "মতিঝিল হতে উত্তরা (আব্দুল্লাহপুর)",
+		"originId": "motijheel",
+		"destinationId": "uttara-abdullahpur",
+		"stops": [
+			{
+				"locationId": "motijheel",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gulistan",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gpo",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "paltan",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kakrail",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shantinagar",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "malibagh",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mouchak",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "rampura",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "badda",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shahjadpur",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "notun-bazar",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bashundhara-gate",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kuril-bishwa-road",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "khilkhet",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "airport",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-joshimuddin",
+				"order": 17,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-azampur",
+				"order": 18,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-house-building",
+				"order": 19,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-abdullahpur",
+				"order": 20,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 30,
+		"notes": "Connects Motijheel, Gulistan, Paltan, Kakrail, Malibagh, Rampura, Badda, Notun Bazar, Kuril, Airport, and Uttara.",
+		"notesBn": "মতিঝিল ও গুলিস্তান থেকে পল্টন, কাকরাইল, মালিবাগ, রামপুরা, বাড্ডা, নতুন বাজার, কুড়িল, বিমানবন্দর ও উত্তরা চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-labbayek-main",
+		"busId": "labbayek",
+		"name": "Savar to Signboard",
+		"nameBn": "সাভার হতে সাইনবোর্ড",
+		"originId": "savar",
+		"destinationId": "signboard",
+		"stops": [
+			{
+				"locationId": "savar",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "hemayetpur",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gabtoli",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "technical",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kallyanpur",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shyamoli",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shishu-mela",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "college-gate",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "asad-gate",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "farmgate",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "karwan-bazar",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "banglamotor",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mogbazar",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mouchak",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "malibagh",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "rajarbag",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "khilgaon",
+				"order": 17,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bashabo",
+				"order": 18,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mugdapara",
+				"order": 19,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "sayedabad",
+				"order": 20,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "jatrabari",
+				"order": 21,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "signboard",
+				"order": 22,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 33,
+		"notes": "Runs from Savar and Gabtoli via Shyamoli, Farmgate, Mogbazar, Mouchak, Malibagh, Khilgaon, Sayedabad, Jatrabari to Signboard.",
+		"notesBn": "সাভার ও গাবতলী থেকে শ্যামলী, ফার্মগেট, মগবাজার, মৌচাক, মালিবাগ, খিলগাঁও, সায়েদাবাদ, যাত্রাবাড়ী হয়ে সাইনবোর্ড চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-raja-city-main",
+		"busId": "raja-city",
+		"name": "Postogola to Bosila",
+		"nameBn": "পোস্তগোলা হতে বসিলা",
+		"originId": "postogola",
+		"destinationId": "bosila",
+		"stops": [
+			{
+				"locationId": "postogola",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "jurain",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "dayagonj",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gulistan",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "paltan",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "press-club",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "high-court",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shahbag",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "katabon",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "science-lab",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "city-college",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "jigatola",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "dhanmondi-15",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "star-kabab",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shankar",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mohammadpur",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bosila",
+				"order": 17,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 25.5,
+		"notes": "Connects Postogola and Gulistan to Shahbag, Science Lab, Jigatola, Shankar, Mohammadpur and Bosila.",
+		"notesBn": "পোস্তগোলা ও গুলিস্তান থেকে শাহবাগ, সায়েন্স ল্যাব, জিগাতলা, শঙ্কর, মোহাম্মদপুর ও বসিলা চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-transilva-main",
+		"busId": "transilva",
+		"name": "Mirpur 1 to Jatrabari",
+		"nameBn": "মিরপুর ১ হতে যাত্রাবাড়ী",
+		"originId": "mirpur-1",
+		"destinationId": "jatrabari",
+		"stops": [
+			{
+				"locationId": "mirpur-1",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "ansar-camp",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "technical",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kallyanpur",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shyamoli",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shishu-mela",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "college-gate",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "asad-gate",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "dhanmondi-27",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "dhanmondi-32",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kalabagan",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "science-lab",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "katabon",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shahbag",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "matsya-bhaban",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "high-court",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "press-club",
+				"order": 17,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "paltan",
+				"order": 18,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gpo",
+				"order": 19,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gulistan",
+				"order": 20,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "motijheel",
+				"order": 21,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "sayedabad",
+				"order": 22,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "jatrabari",
+				"order": 23,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 34.5,
+		"notes": "Connects Mirpur 1 via Technical, Shyamoli, Asad Gate, Dhanmondi, Science Lab, Shahbag, Paltan, Motijheel to Jatrabari.",
+		"notesBn": "মিরপুর ১ থেকে টেকনিক্যাল, শ্যামলী, আসাদ গেট, ধানমন্ডি, সায়েন্স ল্যাব, শাহবাগ, পল্টন, মতিঝিল ও সায়েদাবাদ হয়ে যাত্রাবাড়ী চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-welcome-main",
+		"busId": "welcome",
+		"name": "Savar to Motijheel",
+		"nameBn": "সাভার হতে মতিঝিল",
+		"originId": "savar",
+		"destinationId": "motijheel",
+		"stops": [
+			{
+				"locationId": "savar",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "hemayetpur",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gabtoli",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "technical",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kallyanpur",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shyamoli",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shishu-mela",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "college-gate",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "asad-gate",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "farmgate",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "karwan-bazar",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "banglamotor",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shahbag",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "high-court",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "press-club",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "paltan",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gpo",
+				"order": 17,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gulistan",
+				"order": 18,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "motijheel",
+				"order": 19,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 28.5,
+		"notes": "Runs from Savar / Gabtoli via Shyamoli, Farmgate, Shahbag, Press Club, Paltan, Gulistan to Motijheel.",
+		"notesBn": "সাভার ও গাবতলী থেকে শ্যামলী, ফার্মগেট, শাহবাগ, প্রেস ক্লাব, পল্টন, গুলিস্তান ও মতিঝিল চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-alif-1-main",
+		"busId": "alif-1",
+		"name": "Mirpur 1 to Banasree",
+		"nameBn": "মিরপুর ১ হতে বনশ্রী",
+		"originId": "mirpur-1",
+		"destinationId": "banasree",
+		"stops": [
+			{
+				"locationId": "mirpur-1",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-2",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-10",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kazipara",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shewrapara",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "agargaon",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bijoy-sarani",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "jahangir-gate",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mohakhali",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gulshan-1",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "badda",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "rampura",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "banasree",
+				"order": 13,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 19.5,
+		"notes": "Connects Mirpur 1/10 via Agargaon, Bijoy Sarani, Mohakhali, Gulshan 1, Badda, Rampura Bridge to Banasree.",
+		"notesBn": "মিরপুর ১ ও ১০ থেকে আগারগাঁও, মহাখালী, গুলশান ১, বাড্ডা ও রামপুরা ব্রিজ হয়ে বনশ্রী চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-alif-2-main",
+		"busId": "alif-2",
+		"name": "Japan Garden City to Uttara (Abdullahpur)",
+		"nameBn": "জাপান গার্ডেন সিটি হতে উত্তরা (আব্দুল্লাহপুর)",
+		"originId": "japan-garden-city",
+		"destinationId": "uttara-abdullahpur",
+		"stops": [
+			{
+				"locationId": "japan-garden-city",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "adabor",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shyamoli",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shishu-mela",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "agargaon",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bijoy-sarani",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "jahangir-gate",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mohakhali",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "banani",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kuril-bishwa-road",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "khilkhet",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "airport",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-joshimuddin",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-azampur",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-house-building",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-abdullahpur",
+				"order": 16,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 24,
+		"notes": "Connects Japan Garden / Shyamoli via Agargaon, Mohakhali, Banani, Kuril, Airport to Abdullahpur.",
+		"notesBn": "জাপান গার্ডেন ও শ্যামলী থেকে আগারগাঁও, মহাখালী, বনানী, কুড়িল ও বিমানবন্দর হয়ে আব্দুল্লাহপুর চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-projapati-main",
+		"busId": "projapati",
+		"name": "Bosila to Uttara (Abdullahpur)",
+		"nameBn": "বসিলা হতে উত্তরা (আব্দুল্লাহপুর)",
+		"originId": "bosila",
+		"destinationId": "uttara-abdullahpur",
+		"stops": [
+			{
+				"locationId": "bosila",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mohammadpur",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "asad-gate",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "college-gate",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shyamoli",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kallyanpur",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "technical",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bangla-college",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "ansar-camp",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-1",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-2",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-10",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-11",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kalshi",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "ecb-square",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kuril-bishwa-road",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "khilkhet",
+				"order": 17,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "airport",
+				"order": 18,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-joshimuddin",
+				"order": 19,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-azampur",
+				"order": 20,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-house-building",
+				"order": 21,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-abdullahpur",
+				"order": 22,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 33,
+		"notes": "Connects Bosila, Mohammadpur, Shyamoli, Mirpur 1, Mirpur 10, Kalshi, Kuril, Airport to Abdullahpur.",
+		"notesBn": "বসিলা, মোহাম্মদপুর ও শ্যামলী থেকে মিরপুর ১, মিরপুর ১০, কালশী, কুড়িল ও বিমানবন্দর হয়ে আব্দুল্লাহপুর চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-falgun-art-main",
+		"busId": "falgun-art",
+		"name": "Azimpur to Uttara (House Building)",
+		"nameBn": "আজিমপুর হতে উত্তরা (হাউজ বিল্ডিং)",
+		"originId": "azimpur",
+		"destinationId": "uttara-house-building",
+		"stops": [
+			{
+				"locationId": "azimpur",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "nilkhet",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "new-market",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "science-lab",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "katabon",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shahbag",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "matsya-bhaban",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kakrail",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shantinagar",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "malibagh",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mouchak",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "rampura",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "badda",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shahjadpur",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "notun-bazar",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bashundhara-gate",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kuril-bishwa-road",
+				"order": 17,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "khilkhet",
+				"order": 18,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "airport",
+				"order": 19,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-azampur",
+				"order": 20,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-house-building",
+				"order": 21,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 31.5,
+		"notes": "Connects Azimpur, Science Lab, Shahbag, Kakrail, Malibagh, Rampura, Badda, Kuril, Airport to Uttara.",
+		"notesBn": "আজিমপুর, সায়েন্স ল্যাব, শাহবাগ, কাকরাইল, মালিবাগ, রামপুরা, বাড্ডা, কুড়িল ও বিমানবন্দর হয়ে উত্তরা চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-manjil-express-main",
+		"busId": "manjil-express",
+		"name": "Chittagong Road to Mogbazar",
+		"nameBn": "চট্টগ্রাম রোড হতে মগবাজার",
+		"originId": "chittagong-road",
+		"destinationId": "mogbazar",
+		"stops": [
+			{
+				"locationId": "chittagong-road",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "signboard",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "jatrabari",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "sayedabad",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gulistan",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "paltan",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kakrail",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "malibagh",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mouchak",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mogbazar",
+				"order": 10,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 15,
+		"notes": "Connects Chittagong Road, Signboard, Jatrabari, Sayedabad, Gulistan, Paltan, Kakrail, Malibagh, Mouchak to Mogbazar.",
+		"notesBn": "চট্টগ্রাম রোড, সাইনবোর্ড, যাত্রাবাড়ী, সায়েদাবাদ, গুলিস্তান, পল্টন, কাকরাইল, মালিবাগ ও মৌচাক হয়ে মগবাজার চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-ayat-main",
+		"busId": "ayat",
+		"name": "Chiriyakhana to Kamalapur",
+		"nameBn": "চিড়িয়াখানা হতে কমলাপুর",
+		"originId": "chiriyakhana",
+		"destinationId": "kamalapur",
+		"stops": [
+			{
+				"locationId": "chiriyakhana",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-1",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-2",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-10",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kazipara",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shewrapara",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "agargaon",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "farmgate",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "karwan-bazar",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "banglamotor",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mogbazar",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mouchak",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "malibagh",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "rajarbag",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kamalapur",
+				"order": 15,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 22.5,
+		"notes": "Runs from Chiriyakhana / Mirpur 1 via Mirpur 10, Kazipara, Agargaon, Farmgate, Bangla Motor, Mogbazar, Mouchak, Malibagh to Kamalapur.",
+		"notesBn": "চিড়িয়াখানা ও মিরপুর ১ থেকে মিরপুর ১০, কাজীপাড়া, আগারগাঁও, ফার্মগেট, মগবাজার, মৌচাক ও মালিবাগ হয়ে কমলাপুর চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-six-no-main",
+		"busId": "six-no",
+		"name": "Kamalapur to Notun Bazar",
+		"nameBn": "কমলাপুর হতে নতুন বাজার",
+		"originId": "kamalapur",
+		"destinationId": "notun-bazar",
+		"stops": [
+			{
+				"locationId": "kamalapur",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "motijheel",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gulistan",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "paltan",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kakrail",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shantinagar",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "malibagh",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mouchak",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mogbazar",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "karwan-bazar",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "farmgate",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bijoy-sarani",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "jahangir-gate",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mohakhali",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gulshan-1",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gulshan-2",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "notun-bazar",
+				"order": 17,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 25.5,
+		"notes": "Connects Kamalapur, Motijheel, Gulistan, Paltan, Kakrail, Malibagh, Mouchak, Mogbazar, Farmgate, Mohakhali, Gulshan 1/2 to Notun Bazar.",
+		"notesBn": "কমলাপুর, মতিঝিল, গুলিস্তান, কাকরাইল, মৌচাক, মগবাজার, ফার্মগেট, মহাখালী ও গুলশান হয়ে নতুন বাজার চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-seven-no-main",
+		"busId": "seven-no",
+		"name": "Gabtoli to Sadarghat",
+		"nameBn": "গাবতলী হতে সদরঘাট",
+		"originId": "gabtoli",
+		"destinationId": "sadarghat",
+		"stops": [
+			{
+				"locationId": "gabtoli",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "technical",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kallyanpur",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shyamoli",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shishu-mela",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "college-gate",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "asad-gate",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "dhanmondi-27",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "dhanmondi-32",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kalabagan",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "science-lab",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "katabon",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shahbag",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "high-court",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "press-club",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "paltan",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gpo",
+				"order": 17,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gulistan",
+				"order": 18,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "naya-bazar",
+				"order": 19,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "ray-saheb-bazar",
+				"order": 20,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "sadarghat",
+				"order": 21,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 31.5,
+		"notes": "Runs from Gabtoli via Shyamoli, Asad Gate, Dhanmondi, Science Lab, Shahbag, Press Club, Paltan, Gulistan to Sadarghat.",
+		"notesBn": "গাবতলী থেকে শ্যামলী, আসাদ গেট, ধানমন্ডি, সায়েন্স ল্যাব, শাহবাগ, পল্টন ও গুলিস্তান হয়ে সদরঘাট চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-eight-no-main",
+		"busId": "eight-no",
+		"name": "Jatrabari to Gabtoli",
+		"nameBn": "যাত্রাবাড়ী হতে গাবতলী",
+		"originId": "jatrabari",
+		"destinationId": "gabtoli",
+		"stops": [
+			{
+				"locationId": "jatrabari",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "sayedabad",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "motijheel",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "dainik-bangla",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "paltan",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "press-club",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "matsya-bhaban",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "high-court",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shahbag",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "banglamotor",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "karwan-bazar",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "farmgate",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "asad-gate",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "college-gate",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shishu-mela",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shyamoli",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kallyanpur",
+				"order": 17,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "technical",
+				"order": 18,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gabtoli",
+				"order": 19,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 28.5,
+		"notes": "Connects Jatrabari / Sayedabad to Motijheel, Paltan, Shahbag, Farmgate, Shyamoli and Gabtoli.",
+		"notesBn": "যাত্রাবাড়ী ও সায়েদাবাদ থেকে মতিঝিল, পল্টন, শাহবাগ, ফার্মগেট ও শ্যামলী হয়ে গাবতলী চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-nine-no-main",
+		"busId": "nine-no",
+		"name": "College Gate to Mirpur 12",
+		"nameBn": "কলেজ গেট হতে মিরপুর ১২",
+		"originId": "college-gate",
+		"destinationId": "mirpur-12",
+		"stops": [
+			{
+				"locationId": "college-gate",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shishu-mela",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shyamoli",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kallyanpur",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "darussalam",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "technical",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bangla-college",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "ansar-camp",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-1",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-2",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "pallabi",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-12",
+				"order": 12,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 18,
+		"notes": "Runs from College Gate / Shyamoli via Technical, Bangla College, Mirpur 1, Mirpur 2 to Mirpur 12.",
+		"notesBn": "কলেজ গেট ও শ্যামলী থেকে টেকনিক্যাল, বাংলা কলেজ, মিরপুর ১ ও ২ হয়ে মিরপুর ১২ চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-thirteen-no-main",
+		"busId": "thirteen-no",
+		"name": "Mohammadpur to Azimpur",
+		"nameBn": "মোহাম্মদপুর হতে আজিমপুর",
+		"originId": "mohammadpur",
+		"destinationId": "azimpur",
+		"stops": [
+			{
+				"locationId": "mohammadpur",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shankar",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "star-kabab",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "dhanmondi-15",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "jigatola",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "city-college",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "science-lab",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "new-market",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "nilkhet",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "azimpur",
+				"order": 10,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 15,
+		"notes": "Direct shuttle connecting Mohammadpur, Shankar, Jigatola, Science Lab, New Market, Nilkhet to Azimpur.",
+		"notesBn": "মোহাম্মদপুর, শঙ্কর, জিগাতলা, সায়েন্স ল্যাব, নিউ মার্কেট ও নীলক্ষেত হয়ে আজিমপুর চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-four-no-main",
+		"busId": "four-no",
+		"name": "ECB Square to Motijheel",
+		"nameBn": "ইসিবি স্কয়ার হতে মতিঝিল",
+		"originId": "ecb-square",
+		"destinationId": "motijheel",
+		"stops": [
+			{
+				"locationId": "ecb-square",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "jahangir-gate",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bijoy-sarani",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "farmgate",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "banglamotor",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shahbag",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "paltan",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gulistan",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "motijheel",
+				"order": 9,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 13.5,
+		"notes": "Connects Cantonment / Bijoy Sarani via Farmgate, Bangla Motor, Shahbag, Paltan, Gulistan to Motijheel.",
+		"notesBn": "ক্যান্টনমেন্ট ও বিজয় সরণি থেকে ফার্মগেট, শাহবাগ, পল্টন ও গুলিস্তান হয়ে মতিঝিল চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-tanjil-main",
+		"busId": "tanjil",
+		"name": "Chiriyakhana to Sadarghat",
+		"nameBn": "চিড়িয়াখানা হতে সদরঘাট",
+		"originId": "chiriyakhana",
+		"destinationId": "sadarghat",
+		"stops": [
+			{
+				"locationId": "chiriyakhana",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-1",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "ansar-camp",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "technical",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kallyanpur",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shyamoli",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shishu-mela",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "college-gate",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "asad-gate",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "farmgate",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "karwan-bazar",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "banglamotor",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shahbag",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "high-court",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "press-club",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "paltan",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gpo",
+				"order": 17,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gulistan",
+				"order": 18,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "naya-bazar",
+				"order": 19,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "ray-saheb-bazar",
+				"order": 20,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "sadarghat",
+				"order": 21,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 31.5,
+		"notes": "Connects Chiriyakhana / Mirpur 1 via Technical, Shyamoli, Asad Gate, Farmgate, Shahbag, Press Club, Paltan, Gulistan to Sadarghat.",
+		"notesBn": "চিড়িয়াখানা ও মিরপুর ১ থেকে শ্যামলী, আসাদ গেট, ফার্মগেট, শাহবাগ, পল্টন ও গুলিস্তান হয়ে সদরঘাট চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-taranga-plus-main",
+		"busId": "taranga-plus",
+		"name": "Mohammadpur to Banasree",
+		"nameBn": "মোহাম্মদপুর হতে বনশ্রী",
+		"originId": "mohammadpur",
+		"destinationId": "banasree",
+		"stops": [
+			{
+				"locationId": "mohammadpur",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shankar",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "star-kabab",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "dhanmondi-15",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "jigatola",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "city-college",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "science-lab",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "katabon",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shahbag",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "matsya-bhaban",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kakrail",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shantinagar",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "malibagh",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mouchak",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "rampura",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "banasree",
+				"order": 16,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 24,
+		"notes": "Connects Mohammadpur, Shankar, Jigatola, Science Lab, Shahbag, Kakrail, Malibagh, Mouchak, Rampura to Banasree.",
+		"notesBn": "মোহাম্মদপুর, শঙ্কর, জিগাতলা, সায়েন্স ল্যাব, শাহবাগ, কাকরাইল, মালিবাগ ও রামপুরা হয়ে বনশ্রী চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-tetulia-main",
+		"busId": "tetulia",
+		"name": "Shia Masjid to Uttara (Abdullahpur)",
+		"nameBn": "শিয়া মসজিদ হতে উত্তরা (আব্দুল্লাহপুর)",
+		"originId": "shia-masjid",
+		"destinationId": "uttara-abdullahpur",
+		"stops": [
+			{
+				"locationId": "shia-masjid",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "japan-garden-city",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "adabor",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shyamoli",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shishu-mela",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "agargaon",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shewrapara",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kazipara",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-10",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-11",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "pallabi",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kalshi",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "ecb-square",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kuril-bishwa-road",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "airport",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-joshimuddin",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-azampur",
+				"order": 17,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-house-building",
+				"order": 18,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-abdullahpur",
+				"order": 19,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 28.5,
+		"notes": "Connects Shia Masjid / Shyamoli via Agargaon, Mirpur 10, Kalshi, Kuril, Airport to Abdullahpur.",
+		"notesBn": "শিয়া মসজিদ ও শ্যামলী থেকে আগারগাঁও, মিরপুর ১০, কালশী, কুড়িল ও বিমানবন্দর হয়ে আব্দুল্লাহপুর চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-trust-transport-main",
+		"busId": "trust-transport",
+		"name": "Kalshi to Motijheel",
+		"nameBn": "কালশী হতে মতিঝিল",
+		"originId": "kalshi",
+		"destinationId": "motijheel",
+		"stops": [
+			{
+				"locationId": "kalshi",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "ecb-square",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-14",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mirpur-10",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "jahangir-gate",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "farmgate",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "karwan-bazar",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "banglamotor",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shahbag",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "high-court",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "press-club",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "paltan",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "dainik-bangla",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "motijheel",
+				"order": 14,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 21,
+		"notes": "Connects Mirpur DOHS / Kalshi / Mirpur 10 via Jahangir Gate, Farmgate, Shahbag, Paltan to Motijheel.",
+		"notesBn": "মিরপুর ডিওএইচএস, কালশী ও মিরপুর ১০ থেকে ফার্মগেট, শাহবাগ ও পল্টন হয়ে মতিঝিল চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	},
+	{
+		"id": "route-brtc-ac-main",
+		"busId": "brtc-ac",
+		"name": "Motijheel to Tongi",
+		"nameBn": "মতিঝিল হতে টঙ্গী",
+		"originId": "motijheel",
+		"destinationId": "tongi",
+		"stops": [
+			{
+				"locationId": "motijheel",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gulistan",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gpo",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "paltan",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "press-club",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "high-court",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "matsya-bhaban",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shahbag",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "banglamotor",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "karwan-bazar",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "farmgate",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "jahangir-gate",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "mohakhali",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "banani",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kuril-bishwa-road",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "khilkhet",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "airport",
+				"order": 17,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-joshimuddin",
+				"order": 18,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-azampur",
+				"order": 19,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-house-building",
+				"order": 20,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "uttara-abdullahpur",
+				"order": 21,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "tongi",
+				"order": 22,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 33,
+		"notes": "Official air-conditioned state bus connecting Motijheel, Gulistan, Shahbag, Farmgate, Mohakhali, Banani, Kuril, Airport to Abdullahpur.",
+		"notesBn": "মতিঝিল ও গুলিস্তান থেকে শাহবাগ, ফার্মগেট, মহাখালী, বনানী, কুড়িল ও বিমানবন্দর হয়ে আব্দুল্লাহপুর পর্যন্ত সরকারি এসি সার্ভিস।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
+	}
+]

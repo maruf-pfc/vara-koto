@@ -1,0 +1,26 @@
+name: Route or Stop Correction
+description: Report an incorrect stop sequence or missing route stop
+title: 'Route Correction: [Bus Name]'
+labels: ['transit-data', 'correction']
+body:
+  - type: input
+    id: bus_name
+    attributes:
+      label: Bus Name
+      placeholder: e.g. Bahon
+    validations:
+      required: true
+  - type: textarea
+    id: incorrect_stops
+    attributes:
+      label: What is incorrect or missing?
+      placeholder: Describe the error in current stops or diversion
+    validations:
+      required: true
+  - type: textarea
+    id: corrected_stops
+    attributes:
+      label: Correct Stop Sequence
+      placeholder: List the accurate stop sequence
+    validations:
+      required: true

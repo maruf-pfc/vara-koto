@@ -1,0 +1,1302 @@
+[
+	{
+		"id": "sadarghat",
+		"name": "Sadarghat",
+		"nameBn": "সদরঘাট",
+		"area": "Old Dhaka",
+		"areaBn": "পুরান ঢাকা",
+		"isMajorHub": true,
+		"aliases": ["victoria park", "ভিক্টোরিয়া পার্ক", "launch ghat"],
+		"slug": "sadarghat"
+	},
+	{
+		"id": "victoria-park",
+		"name": "Victoria Park",
+		"nameBn": "ভিক্টোরিয়া পার্ক",
+		"area": "Old Dhaka",
+		"areaBn": "পুরান ঢাকা",
+		"isMajorHub": true,
+		"aliases": ["victoria park", "ভিক্টোরিয়া পার্ক", "sadarghat"],
+		"slug": "victoria-park"
+	},
+	{
+		"id": "ray-saheb-bazar",
+		"name": "Ray Saheb Bazar",
+		"nameBn": "রায় সাহেব বাজার",
+		"area": "Old Dhaka",
+		"areaBn": "পুরান ঢাকা",
+		"isMajorHub": false,
+		"aliases": ["ray saheb bazar", "রায় সাহেব বাজার"],
+		"slug": "ray-saheb-bazar"
+	},
+	{
+		"id": "naya-bazar",
+		"name": "Naya Bazar",
+		"nameBn": "নয়া বাজার",
+		"area": "Old Dhaka",
+		"areaBn": "পুরান ঢাকা",
+		"isMajorHub": false,
+		"aliases": ["naya bazar", "নয়া বাজার"],
+		"slug": "naya-bazar"
+	},
+	{
+		"id": "babubazar",
+		"name": "Babubazar",
+		"nameBn": "বাবুবাজার",
+		"area": "Old Dhaka",
+		"areaBn": "পুরান ঢাকা",
+		"isMajorHub": false,
+		"aliases": ["babubazar", "babu bazar", "বাবুবাজার"],
+		"slug": "babubazar"
+	},
+	{
+		"id": "showari-ghat",
+		"name": "Showari Ghat",
+		"nameBn": "শোয়ারী ঘাট",
+		"area": "Old Dhaka",
+		"areaBn": "পুরান ঢাকা",
+		"isMajorHub": false,
+		"aliases": ["showari ghat", "সোয়ারীঘাট"],
+		"slug": "showari-ghat"
+	},
+	{
+		"id": "kamrangirchar",
+		"name": "Kamrangirchar",
+		"nameBn": "কামরাঙ্গীরচর",
+		"area": "Old Dhaka",
+		"areaBn": "পুরান ঢাকা",
+		"isMajorHub": false,
+		"aliases": ["kamrangirchar"],
+		"slug": "kamrangirchar"
+	},
+	{
+		"id": "hazaribag",
+		"name": "Hazaribag",
+		"nameBn": "হাজারীবাগ",
+		"area": "Old Dhaka",
+		"areaBn": "পুরান ঢাকা",
+		"isMajorHub": false,
+		"aliases": ["hazaribag", "হাজারিবাগ"],
+		"slug": "hazaribag"
+	},
+	{
+		"id": "sikder-medical",
+		"name": "Sikder Medical",
+		"nameBn": "সিকদার মেডিকেল",
+		"area": "Dhanmondi / Hazaribag",
+		"areaBn": "ধানমন্ডি / হাজারীবাগ",
+		"isMajorHub": false,
+		"aliases": ["sikder medical college"],
+		"slug": "sikder-medical"
+	},
+	{
+		"id": "rayer-bazar",
+		"name": "Rayer Bazar",
+		"nameBn": "রায়ের বাজার",
+		"area": "Dhanmondi / Mohammadpur",
+		"areaBn": "ধানমন্ডি / মোহাম্মদপুর",
+		"isMajorHub": false,
+		"aliases": ["rayer bazar"],
+		"slug": "rayer-bazar"
+	},
+	{
+		"id": "kadamtali",
+		"name": "Kadamtali",
+		"nameBn": "কদমতলী",
+		"area": "Keraniganj",
+		"areaBn": "কেরাণীগঞ্জ",
+		"isMajorHub": false,
+		"aliases": ["kadamtali", "কদমতলি"],
+		"slug": "kadamtali"
+	},
+	{
+		"id": "keraniganj",
+		"name": "Keraniganj",
+		"nameBn": "কেরাণীগঞ্জ",
+		"area": "Keraniganj",
+		"areaBn": "কেরাণীগঞ্জ",
+		"isMajorHub": true,
+		"aliases": ["keraniganj", "কেরানীগঞ্জ"],
+		"slug": "keraniganj"
+	},
+	{
+		"id": "rajendrapur",
+		"name": "Rajendrapur",
+		"nameBn": "রাজেন্দ্রপুর",
+		"area": "South Dhaka",
+		"areaBn": "দক্ষিণ ঢাকা",
+		"isMajorHub": false,
+		"aliases": ["rajendrapur"],
+		"slug": "rajendrapur"
+	},
+	{
+		"id": "maowa",
+		"name": "Maowa",
+		"nameBn": "মাওয়া",
+		"area": "Padma Bridge",
+		"areaBn": "পদ্মা সেতু",
+		"isMajorHub": true,
+		"aliases": ["mawa", "maowa"],
+		"slug": "maowa"
+	},
+	{
+		"id": "fulbaria",
+		"name": "Fulbaria",
+		"nameBn": "ফুলবাড়িয়া",
+		"area": "Old Dhaka",
+		"areaBn": "পুরান ঢাকা",
+		"isMajorHub": true,
+		"aliases": ["fulbaria", "ফুলবাড়িয়া"],
+		"slug": "fulbaria"
+	},
+	{
+		"id": "golap-shah-mazar",
+		"name": "Golap Shah Mazar",
+		"nameBn": "গোলাপ শাহ মাজার",
+		"area": "Gulistan",
+		"areaBn": "গুলিস্তান",
+		"isMajorHub": false,
+		"aliases": ["golap shah mazar"],
+		"slug": "golap-shah-mazar"
+	},
+	{
+		"id": "gulistan",
+		"name": "Gulistan",
+		"nameBn": "গুলিস্তান",
+		"area": "Gulistan / Motijheel",
+		"areaBn": "গুলিস্তান / মতিঝিল",
+		"isMajorHub": true,
+		"aliases": ["gulistan", "zero point", "জিরো পয়েন্ট"],
+		"slug": "gulistan"
+	},
+	{
+		"id": "gpo",
+		"name": "GPO",
+		"nameBn": "জিপিও",
+		"area": "Gulistan",
+		"areaBn": "গুলিস্তান",
+		"isMajorHub": false,
+		"aliases": ["gpo", "জিপিও"],
+		"slug": "gpo"
+	},
+	{
+		"id": "paltan",
+		"name": "Paltan",
+		"nameBn": "পল্টন",
+		"area": "Motijheel",
+		"areaBn": "মতিঝিল",
+		"isMajorHub": true,
+		"aliases": ["paltan", "purana paltan", "পল্টন মোড়"],
+		"slug": "paltan"
+	},
+	{
+		"id": "baitul-mukarram",
+		"name": "Baitul Mukarram",
+		"nameBn": "বায়তুল মোকাররম",
+		"area": "Motijheel",
+		"areaBn": "মতিঝিল",
+		"isMajorHub": false,
+		"aliases": ["baitul mukarram"],
+		"slug": "baitul-mukarram"
+	},
+	{
+		"id": "dainik-bangla",
+		"name": "Dainik Bangla",
+		"nameBn": "দৈনিক বাংলা",
+		"area": "Motijheel",
+		"areaBn": "মতিঝিল",
+		"isMajorHub": false,
+		"aliases": ["dainik bangla", "dainik bangla moor"],
+		"slug": "dainik-bangla"
+	},
+	{
+		"id": "motijheel",
+		"name": "Motijheel",
+		"nameBn": "মতিঝিল",
+		"area": "Motijheel",
+		"areaBn": "মতিঝিল",
+		"isMajorHub": true,
+		"aliases": ["motijheel", "shapla chattar", "শাপলা চত্বর"],
+		"slug": "motijheel"
+	},
+	{
+		"id": "arambagh",
+		"name": "Arambagh",
+		"nameBn": "আরামবাগ",
+		"area": "Motijheel",
+		"areaBn": "মতিঝিল",
+		"isMajorHub": false,
+		"aliases": ["arambagh", "notre dame"],
+		"slug": "arambagh"
+	},
+	{
+		"id": "kamalapur",
+		"name": "Kamalapur",
+		"nameBn": "কমলাপুর",
+		"area": "Motijheel",
+		"areaBn": "মতিঝিল",
+		"isMajorHub": true,
+		"aliases": ["kamalapur", "railway station", "কমলাপুর রেলওয়ে স্টেশন"],
+		"slug": "kamalapur"
+	},
+	{
+		"id": "ittefaq-moor",
+		"name": "Ittefaq Moor",
+		"nameBn": "ইত্তেফাক মোড়",
+		"area": "Motijheel",
+		"areaBn": "মতিঝিল",
+		"isMajorHub": false,
+		"aliases": ["ittefaq", "ইত্তেফাক"],
+		"slug": "ittefaq-moor"
+	},
+	{
+		"id": "tikatuli",
+		"name": "Tikatuli",
+		"nameBn": "টিকাটুলি",
+		"area": "Old Dhaka",
+		"areaBn": "পুরান ঢাকা",
+		"isMajorHub": false,
+		"aliases": ["tikatuli", "টিকাটুলী"],
+		"slug": "tikatuli"
+	},
+	{
+		"id": "dayagonj",
+		"name": "Dayagonj",
+		"nameBn": "দয়াগঞ্জ",
+		"area": "Old Dhaka",
+		"areaBn": "পুরান ঢাকা",
+		"isMajorHub": false,
+		"aliases": ["dayagonj", "doyaganj"],
+		"slug": "dayagonj"
+	},
+	{
+		"id": "dhupkhola",
+		"name": "Dhupkhola",
+		"nameBn": "ধুপখোলা",
+		"area": "Old Dhaka",
+		"areaBn": "পুরান ঢাকা",
+		"isMajorHub": false,
+		"aliases": ["dhupkhola"],
+		"slug": "dhupkhola"
+	},
+	{
+		"id": "gandaria",
+		"name": "Gandaria",
+		"nameBn": "গেন্ডারিয়া",
+		"area": "Old Dhaka",
+		"areaBn": "পুরান ঢাকা",
+		"isMajorHub": false,
+		"aliases": ["gandaria"],
+		"slug": "gandaria"
+	},
+	{
+		"id": "jurain",
+		"name": "Jurain",
+		"nameBn": "জুরাইন",
+		"area": "Old Dhaka",
+		"areaBn": "পুরান ঢাকা",
+		"isMajorHub": false,
+		"aliases": ["jurain"],
+		"slug": "jurain"
+	},
+	{
+		"id": "postogola",
+		"name": "Postogola",
+		"nameBn": "পোস্তগোলা",
+		"area": "Old Dhaka",
+		"areaBn": "পুরান ঢাকা",
+		"isMajorHub": true,
+		"aliases": ["postogola", "পোস্তগোলা ব্রিজ"],
+		"slug": "postogola"
+	},
+	{
+		"id": "dholairpar",
+		"name": "Dholairpar",
+		"nameBn": "ধলাইড়পাড়",
+		"area": "Jatrabari",
+		"areaBn": "যাত্রাবাড়ী",
+		"isMajorHub": false,
+		"aliases": ["dholairpar", "ধোলাইপাড়"],
+		"slug": "dholairpar"
+	},
+	{
+		"id": "jatrabari",
+		"name": "Jatrabari",
+		"nameBn": "যাত্রাবাড়ী",
+		"area": "Jatrabari",
+		"areaBn": "যাত্রাবাড়ী",
+		"isMajorHub": true,
+		"aliases": ["jatrabari", "যাত্রাবাড়ী চৌরাস্তা"],
+		"slug": "jatrabari"
+	},
+	{
+		"id": "janapoth-moor",
+		"name": "Janapoth Moor",
+		"nameBn": "জনপথ মোড়",
+		"area": "Jatrabari",
+		"areaBn": "যাত্রাবাড়ী",
+		"isMajorHub": false,
+		"aliases": ["janapoth"],
+		"slug": "janapoth-moor"
+	},
+	{
+		"id": "sayedabad",
+		"name": "Sayedabad",
+		"nameBn": "সায়েদাবাদ",
+		"area": "Jatrabari",
+		"areaBn": "যাত্রাবাড়ী",
+		"isMajorHub": true,
+		"aliases": ["sayedabad", "sayapabad", "সায়দাবাদ"],
+		"slug": "sayedabad"
+	},
+	{
+		"id": "golapbagh",
+		"name": "Golapbagh",
+		"nameBn": "গোলাপবাগ",
+		"area": "Sayedabad",
+		"areaBn": "সায়েদাবাদ",
+		"isMajorHub": false,
+		"aliases": ["golapbagh", "golapbagh chowrasta"],
+		"slug": "golapbagh"
+	},
+	{
+		"id": "manik-nagar",
+		"name": "Manik Nagar",
+		"nameBn": "মানিক নগর",
+		"area": "Sayedabad",
+		"areaBn": "সায়েদাবাদ",
+		"isMajorHub": false,
+		"aliases": ["manik nagar"],
+		"slug": "manik-nagar"
+	},
+	{
+		"id": "tt-para",
+		"name": "TT Para",
+		"nameBn": "টিটি পাড়া",
+		"area": "Sayedabad",
+		"areaBn": "সায়েদাবাদ",
+		"isMajorHub": false,
+		"aliases": ["tt para"],
+		"slug": "tt-para"
+	},
+	{
+		"id": "mugdapara",
+		"name": "Mugdapara",
+		"nameBn": "মুগদাপাড়া",
+		"area": "Khilgaon / Mugda",
+		"areaBn": "খিলগাঁও / মুগদা",
+		"isMajorHub": false,
+		"aliases": ["mugda", "mugdapara", "মুগদা"],
+		"slug": "mugdapara"
+	},
+	{
+		"id": "bashabo",
+		"name": "Bashabo",
+		"nameBn": "বাসাবো",
+		"area": "Khilgaon",
+		"areaBn": "খিলগাঁও",
+		"isMajorHub": false,
+		"aliases": ["bashabo", "বাসাবো বৌদ্ধ মন্দির"],
+		"slug": "bashabo"
+	},
+	{
+		"id": "khilgaon",
+		"name": "Khilgaon",
+		"nameBn": "খিলগাঁও",
+		"area": "Khilgaon",
+		"areaBn": "খিলগাঁও",
+		"isMajorHub": true,
+		"aliases": ["khilgaon flyover", "taltola khilgaon"],
+		"slug": "khilgaon"
+	},
+	{
+		"id": "rajarbag",
+		"name": "Rajarbag",
+		"nameBn": "রাজারবাগ",
+		"area": "Malibagh",
+		"areaBn": "মালিবাগ",
+		"isMajorHub": false,
+		"aliases": ["rajarbag", "পুলিশ লাইন"],
+		"slug": "rajarbag"
+	},
+	{
+		"id": "malibagh",
+		"name": "Malibagh",
+		"nameBn": "মালিবাগ",
+		"area": "Malibagh",
+		"areaBn": "মালিবাগ",
+		"isMajorHub": true,
+		"aliases": ["malibagh railgate", "malibaag moor", "মালিবাগ মোড়", "মালিবাগ রেলগেট"],
+		"slug": "malibagh"
+	},
+	{
+		"id": "mouchak",
+		"name": "Mouchak",
+		"nameBn": "মৌচাক",
+		"area": "Malibagh",
+		"areaBn": "মালিবাগ",
+		"isMajorHub": false,
+		"aliases": ["mouchak market", "মৌচাক মোড়"],
+		"slug": "mouchak"
+	},
+	{
+		"id": "shantinagar",
+		"name": "Shantinagar",
+		"nameBn": "শান্তিনগর",
+		"area": "Malibagh / Kakrail",
+		"areaBn": "মালিবাগ / কাকরাইল",
+		"isMajorHub": false,
+		"aliases": ["shantinagar", "শান্তিনগর মোড়"],
+		"slug": "shantinagar"
+	},
+	{
+		"id": "kakrail",
+		"name": "Kakrail",
+		"nameBn": "কাকরাইল",
+		"area": "Central Dhaka",
+		"areaBn": "কেন্দ্রীয় ঢাকা",
+		"isMajorHub": false,
+		"aliases": ["kakrail", "circuit house"],
+		"slug": "kakrail"
+	},
+	{
+		"id": "press-club",
+		"name": "Press Club",
+		"nameBn": "প্রেস ক্লাব",
+		"area": "Central Dhaka",
+		"areaBn": "কেন্দ্রীয় ঢাকা",
+		"isMajorHub": false,
+		"aliases": ["press club", "secretariat"],
+		"slug": "press-club"
+	},
+	{
+		"id": "high-court",
+		"name": "High Court",
+		"nameBn": "উচ্চ আদালত",
+		"area": "Central Dhaka",
+		"areaBn": "কেন্দ্রীয় ঢাকা",
+		"isMajorHub": false,
+		"aliases": ["high court", "কদম ফোয়ারা"],
+		"slug": "high-court"
+	},
+	{
+		"id": "matsya-bhaban",
+		"name": "Matsya Bhaban",
+		"nameBn": "মৎস্য ভবন",
+		"area": "Central Dhaka",
+		"areaBn": "কেন্দ্রীয় ঢাকা",
+		"isMajorHub": false,
+		"aliases": ["matsya bhaban", "motsya bhaban"],
+		"slug": "matsya-bhaban"
+	},
+	{
+		"id": "shahbag",
+		"name": "Shahbag",
+		"nameBn": "শাহবাগ",
+		"area": "Central Dhaka",
+		"areaBn": "কেন্দ্রীয় ঢাকা",
+		"isMajorHub": true,
+		"aliases": ["shahbag", "bsmmu", "pg hospital", "ঢাকা বিশ্ববিদ্যালয়"],
+		"slug": "shahbag"
+	},
+	{
+		"id": "katabon",
+		"name": "Katabon",
+		"nameBn": "কাটাবন",
+		"area": "Central Dhaka",
+		"areaBn": "কেন্দ্রীয় ঢাকা",
+		"isMajorHub": false,
+		"aliases": ["katabon", "bata signal"],
+		"slug": "katabon"
+	},
+	{
+		"id": "bata-signal",
+		"name": "Bata Signal",
+		"nameBn": "বাটা সিগন্যাল",
+		"area": "Elephant Road",
+		"areaBn": "এলিফ্যান্ট রোড",
+		"isMajorHub": false,
+		"aliases": ["bata signal", "elephant road"],
+		"slug": "bata-signal"
+	},
+	{
+		"id": "science-lab",
+		"name": "Science Lab",
+		"nameBn": "সায়েন্স ল্যাব",
+		"area": "Dhanmondi",
+		"areaBn": "ধানমন্ডি",
+		"isMajorHub": true,
+		"aliases": ["science lab", "city college", "বিজ্ঞান গবেষণা প্রযুক্তি"],
+		"slug": "science-lab"
+	},
+	{
+		"id": "city-college",
+		"name": "City College",
+		"nameBn": "সিটি কলেজ",
+		"area": "Dhanmondi",
+		"areaBn": "ধানমন্ডি",
+		"isMajorHub": false,
+		"aliases": ["city college"],
+		"slug": "city-college"
+	},
+	{
+		"id": "new-market",
+		"name": "New Market",
+		"nameBn": "নিউ মার্কেট",
+		"area": "Dhanmondi / Azimpur",
+		"areaBn": "ধানমন্ডি / আজিমপুর",
+		"isMajorHub": true,
+		"aliases": ["new market", "balaka"],
+		"slug": "new-market"
+	},
+	{
+		"id": "nilkhet",
+		"name": "Nilkhet",
+		"nameBn": "নীলক্ষেত",
+		"area": "Azimpur",
+		"areaBn": "আজিমপুর",
+		"isMajorHub": false,
+		"aliases": ["nilkhet", "নীলক্ষেত মোড়"],
+		"slug": "nilkhet"
+	},
+	{
+		"id": "azimpur",
+		"name": "Azimpur",
+		"nameBn": "আজিমপুর",
+		"area": "Azimpur",
+		"areaBn": "আজিমপুর",
+		"isMajorHub": true,
+		"aliases": ["azimpur", "eden college", "আজিমপুর বাস স্ট্যান্ড"],
+		"slug": "azimpur"
+	},
+	{
+		"id": "eden-college",
+		"name": "Eden College",
+		"nameBn": "ইডেন কলেজ",
+		"area": "Azimpur",
+		"areaBn": "আজিমপুর",
+		"isMajorHub": false,
+		"aliases": ["eden college"],
+		"slug": "eden-college"
+	},
+	{
+		"id": "palashi",
+		"name": "Palashi",
+		"nameBn": "পলাশী",
+		"area": "Azimpur / BUET",
+		"areaBn": "আজিমপুর / বুয়েট",
+		"isMajorHub": false,
+		"aliases": ["palashi", "buet"],
+		"slug": "palashi"
+	},
+	{
+		"id": "bakshi-bazar",
+		"name": "Bakshi Bazar",
+		"nameBn": "বকশী বাজার",
+		"area": "Old Dhaka",
+		"areaBn": "পুরান ঢাকা",
+		"isMajorHub": false,
+		"aliases": ["bakshi bazar"],
+		"slug": "bakshi-bazar"
+	},
+	{
+		"id": "chankhar-pul",
+		"name": "Chankhar Pul",
+		"nameBn": "চাঁনখারপুল",
+		"area": "Old Dhaka",
+		"areaBn": "পুরান ঢাকা",
+		"isMajorHub": false,
+		"aliases": ["chankhar pul", "chankharpool"],
+		"slug": "chankhar-pul"
+	},
+	{
+		"id": "dhakeshwari",
+		"name": "Dhakeshwari",
+		"nameBn": "ঢাকেশ্বরী",
+		"area": "Old Dhaka",
+		"areaBn": "পুরান ঢাকা",
+		"isMajorHub": false,
+		"aliases": ["dhakeshwari", "ঢাকেশ্বরী মন্দির"],
+		"slug": "dhakeshwari"
+	},
+	{
+		"id": "kalabagan",
+		"name": "Kalabagan",
+		"nameBn": "কলাবাগান",
+		"area": "Dhanmondi",
+		"areaBn": "ধানমন্ডি",
+		"isMajorHub": false,
+		"aliases": ["kalabagan", "shukrabad", "শুক্রাবাদ"],
+		"slug": "kalabagan"
+	},
+	{
+		"id": "shukrabad",
+		"name": "Shukrabad",
+		"nameBn": "শুক্রাবাদ",
+		"area": "Dhanmondi",
+		"areaBn": "ধানমন্ডি",
+		"isMajorHub": false,
+		"aliases": ["shukrabad"],
+		"slug": "shukrabad"
+	},
+	{
+		"id": "dhanmondi-32",
+		"name": "Dhanmondi 32",
+		"nameBn": "ধানমন্ডি ৩২",
+		"area": "Dhanmondi",
+		"areaBn": "ধানমন্ডি",
+		"isMajorHub": false,
+		"aliases": ["dhanmondi 32", "russell square", "৩২ নম্বর"],
+		"slug": "dhanmondi-32"
+	},
+	{
+		"id": "dhanmondi-27",
+		"name": "Dhanmondi 27",
+		"nameBn": "ধানমন্ডি ২৭",
+		"area": "Dhanmondi",
+		"areaBn": "ধানমন্ডি",
+		"isMajorHub": false,
+		"aliases": ["dhanmondi 27", "shankar", "২৭ নম্বর"],
+		"slug": "dhanmondi-27"
+	},
+	{
+		"id": "shankar",
+		"name": "Shankar",
+		"nameBn": "শঙ্কর",
+		"area": "Dhanmondi",
+		"areaBn": "ধানমন্ডি",
+		"isMajorHub": false,
+		"aliases": ["shankar", "শংকর"],
+		"slug": "shankar"
+	},
+	{
+		"id": "star-kabab",
+		"name": "Star Kabab (Dhanmondi 2)",
+		"nameBn": "স্টার কাবাব (ধানমন্ডি ২)",
+		"area": "Dhanmondi",
+		"areaBn": "ধানমন্ডি",
+		"isMajorHub": false,
+		"aliases": ["star kabab", "dhanmondi 2"],
+		"slug": "star-kabab"
+	},
+	{
+		"id": "dhanmondi-15",
+		"name": "Dhanmondi 15",
+		"nameBn": "ধানমন্ডি ১৫",
+		"area": "Dhanmondi",
+		"areaBn": "ধানমন্ডি",
+		"isMajorHub": false,
+		"aliases": ["dhanmondi 15", "১৫ নম্বর"],
+		"slug": "dhanmondi-15"
+	},
+	{
+		"id": "jigatola",
+		"name": "Jigatola",
+		"nameBn": "ঝিগাতলা",
+		"area": "Dhanmondi",
+		"areaBn": "ধানমন্ডি",
+		"isMajorHub": true,
+		"aliases": ["jigatola", "jhiltuli", "জিগাতলা"],
+		"slug": "jigatola"
+	},
+	{
+		"id": "mohammadpur",
+		"name": "Mohammadpur",
+		"nameBn": "মোহাম্মদপুর",
+		"area": "Mohammadpur",
+		"areaBn": "মোহাম্মদপুর",
+		"isMajorHub": true,
+		"aliases": ["mohammadpur bus stand", "town hall"],
+		"slug": "mohammadpur"
+	},
+	{
+		"id": "tajmahal-road",
+		"name": "Tajmahal Road",
+		"nameBn": "তাজমহল রোড",
+		"area": "Mohammadpur",
+		"areaBn": "মোহাম্মদপুর",
+		"isMajorHub": false,
+		"aliases": ["tajmahal road"],
+		"slug": "tajmahal-road"
+	},
+	{
+		"id": "shia-masjid",
+		"name": "Shia Masjid",
+		"nameBn": "শিয়া মসজিদ",
+		"area": "Mohammadpur",
+		"areaBn": "মোহাম্মদপুর",
+		"isMajorHub": false,
+		"aliases": ["shia masjid"],
+		"slug": "shia-masjid"
+	},
+	{
+		"id": "japan-garden-city",
+		"name": "Japan Garden City",
+		"nameBn": "জাপান গার্ডেন সিটি",
+		"area": "Mohammadpur",
+		"areaBn": "মোহাম্মদপুর",
+		"isMajorHub": false,
+		"aliases": ["japan garden city", "ring road", "রিং রোড"],
+		"slug": "japan-garden-city"
+	},
+	{
+		"id": "adabor",
+		"name": "Adabor",
+		"nameBn": "আদাবর",
+		"area": "Mohammadpur",
+		"areaBn": "মোহাম্মদপুর",
+		"isMajorHub": false,
+		"aliases": ["adabor"],
+		"slug": "adabor"
+	},
+	{
+		"id": "bosila",
+		"name": "Bosila",
+		"nameBn": "বসিলা",
+		"area": "Mohammadpur",
+		"areaBn": "মোহাম্মদপুর",
+		"isMajorHub": true,
+		"aliases": ["bosila", "ghatar char", "ঘাটার চর"],
+		"slug": "bosila"
+	},
+	{
+		"id": "asad-gate",
+		"name": "Asad Gate",
+		"nameBn": "আসাদ গেট",
+		"area": "Mohammadpur",
+		"areaBn": "মোহাম্মদপুর",
+		"isMajorHub": true,
+		"aliases": ["asad gate", "aarong"],
+		"slug": "asad-gate"
+	},
+	{
+		"id": "college-gate",
+		"name": "College Gate",
+		"nameBn": "কলেজ গেট",
+		"area": "Mohammadpur",
+		"areaBn": "মোহাম্মদপুর",
+		"isMajorHub": false,
+		"aliases": ["college gate", "suhrawardy hospital"],
+		"slug": "college-gate"
+	},
+	{
+		"id": "shishu-mela",
+		"name": "Shishu Mela",
+		"nameBn": "শিশু মেলা",
+		"area": "Shyamoli",
+		"areaBn": "শ্যামলী",
+		"isMajorHub": false,
+		"aliases": ["shishu mela"],
+		"slug": "shishu-mela"
+	},
+	{
+		"id": "shyamoli",
+		"name": "Shyamoli",
+		"nameBn": "শ্যামলী",
+		"area": "Shyamoli",
+		"areaBn": "শ্যামলী",
+		"isMajorHub": true,
+		"aliases": ["shyamoli", "cinema hall"],
+		"slug": "shyamoli"
+	},
+	{
+		"id": "kallyanpur",
+		"name": "Kallyanpur",
+		"nameBn": "কল্যাণপুর",
+		"area": "Kallyanpur",
+		"areaBn": "কল্যাণপুর",
+		"isMajorHub": false,
+		"aliases": ["kallyanpur", "kalyanpur"],
+		"slug": "kallyanpur"
+	},
+	{
+		"id": "darussalam",
+		"name": "Darussalam",
+		"nameBn": "দারুসসালাম",
+		"area": "Technical / Mirpur",
+		"areaBn": "টেকনিক্যাল / মিরপুর",
+		"isMajorHub": false,
+		"aliases": ["darussalam"],
+		"slug": "darussalam"
+	},
+	{
+		"id": "technical",
+		"name": "Technical",
+		"nameBn": "টেকনিক্যাল",
+		"area": "Mirpur / Gabtoli",
+		"areaBn": "মিরপুর / গাবতলী",
+		"isMajorHub": false,
+		"aliases": ["technical mor"],
+		"slug": "technical"
+	},
+	{
+		"id": "bangla-college",
+		"name": "Bangla College",
+		"nameBn": "বাংলা কলেজ",
+		"area": "Mirpur 1",
+		"areaBn": "মিরপুর ১",
+		"isMajorHub": false,
+		"aliases": ["bangla college", "tolarbag", "টোলারবাগ"],
+		"slug": "bangla-college"
+	},
+	{
+		"id": "ansar-camp",
+		"name": "Ansar Camp",
+		"nameBn": "আনসার ক্যাম্প",
+		"area": "Mirpur 1",
+		"areaBn": "মিরপুর ১",
+		"isMajorHub": false,
+		"aliases": ["ansar camp"],
+		"slug": "ansar-camp"
+	},
+	{
+		"id": "mirpur-1",
+		"name": "Mirpur 1",
+		"nameBn": "মিরপুর ১",
+		"area": "Mirpur",
+		"areaBn": "মিরপুর",
+		"isMajorHub": true,
+		"aliases": ["mirpur 1", "sony cinema", "সনি সিনেমা হল"],
+		"slug": "mirpur-1"
+	},
+	{
+		"id": "mirpur-2",
+		"name": "Mirpur 2",
+		"nameBn": "মিরপুর ২",
+		"area": "Mirpur",
+		"areaBn": "মিরপুর",
+		"isMajorHub": false,
+		"aliases": ["mirpur 2", "stadium"],
+		"slug": "mirpur-2"
+	},
+	{
+		"id": "chiriyakhana",
+		"name": "Chiriyakhana",
+		"nameBn": "চিড়িয়াখানা",
+		"area": "Mirpur",
+		"areaBn": "মিরপুর",
+		"isMajorHub": true,
+		"aliases": ["chiriyakhana", "zoo", "মিরপুর চিড়িয়াখানা"],
+		"slug": "chiriyakhana"
+	},
+	{
+		"id": "mirpur-10",
+		"name": "Mirpur 10",
+		"nameBn": "মিরপুর ১০",
+		"area": "Mirpur",
+		"areaBn": "মিরপুর",
+		"isMajorHub": true,
+		"aliases": ["mirpur 10", "golchokkor"],
+		"slug": "mirpur-10"
+	},
+	{
+		"id": "mirpur-11",
+		"name": "Mirpur 11",
+		"nameBn": "মিরপুর ১১",
+		"area": "Mirpur",
+		"areaBn": "মিরপুর",
+		"isMajorHub": false,
+		"aliases": ["mirpur 11", "purobi", "পুরবী"],
+		"slug": "mirpur-11"
+	},
+	{
+		"id": "pallabi",
+		"name": "Pallabi",
+		"nameBn": "পল্লবী",
+		"area": "Mirpur",
+		"areaBn": "মিরপুর",
+		"isMajorHub": false,
+		"aliases": ["pallabi"],
+		"slug": "pallabi"
+	},
+	{
+		"id": "mirpur-12",
+		"name": "Mirpur 12",
+		"nameBn": "মিরপুর ১২",
+		"area": "Mirpur",
+		"areaBn": "মিরপুর",
+		"isMajorHub": true,
+		"aliases": ["mirpur 12", "১২ নম্বর"],
+		"slug": "mirpur-12"
+	},
+	{
+		"id": "mirpur-14",
+		"name": "Mirpur 14",
+		"nameBn": "মিরপুর ১৪",
+		"area": "Mirpur",
+		"areaBn": "মিরপুর",
+		"isMajorHub": true,
+		"aliases": ["mirpur 14", "kachukhet", "কচুক্ষেত"],
+		"slug": "mirpur-14"
+	},
+	{
+		"id": "vashantek",
+		"name": "Vashantek",
+		"nameBn": "ভাষানটেক",
+		"area": "Mirpur",
+		"areaBn": "মিরপুর",
+		"isMajorHub": false,
+		"aliases": ["vashantek", "ভাসানটেক"],
+		"slug": "vashantek"
+	},
+	{
+		"id": "kalshi",
+		"name": "Kalshi",
+		"nameBn": "কালশী",
+		"area": "Mirpur",
+		"areaBn": "মিরপুর",
+		"isMajorHub": true,
+		"aliases": ["kalshi", "kalshi flyover"],
+		"slug": "kalshi"
+	},
+	{
+		"id": "ecb-square",
+		"name": "ECB Square",
+		"nameBn": "ইসিবি স্কয়ার",
+		"area": "Cantonment",
+		"areaBn": "ক্যান্টনমেন্ট",
+		"isMajorHub": true,
+		"aliases": ["ecb square", "matrikranti"],
+		"slug": "ecb-square"
+	},
+	{
+		"id": "kazipara",
+		"name": "Kazipara",
+		"nameBn": "কাজীপাড়া",
+		"area": "Mirpur",
+		"areaBn": "মিরপুর",
+		"isMajorHub": false,
+		"aliases": ["kazipara"],
+		"slug": "kazipara"
+	},
+	{
+		"id": "shewrapara",
+		"name": "Shewrapara",
+		"nameBn": "শেওড়াপাড়া",
+		"area": "Mirpur",
+		"areaBn": "মিরপুর",
+		"isMajorHub": false,
+		"aliases": ["shewrapara", "taltola", "তালতলা"],
+		"slug": "shewrapara"
+	},
+	{
+		"id": "agargaon",
+		"name": "Agargaon",
+		"nameBn": "আগারগাঁও",
+		"area": "Agargaon",
+		"areaBn": "আগারগাঁও",
+		"isMajorHub": true,
+		"aliases": ["agargaon", "idb", "আইডিবি", "zia uddyan"],
+		"slug": "agargaon"
+	},
+	{
+		"id": "bijoy-sarani",
+		"name": "Bijoy Sarani",
+		"nameBn": "বিজয় সরণি",
+		"area": "Farmgate",
+		"areaBn": "ফার্মগেট",
+		"isMajorHub": false,
+		"aliases": ["bijoy sarani", "khejur bagan"],
+		"slug": "bijoy-sarani"
+	},
+	{
+		"id": "jahangir-gate",
+		"name": "Jahangir Gate",
+		"nameBn": "জাহাঙ্গীর গেট",
+		"area": "Mohakhali / Cantonment",
+		"areaBn": "মহাখালী / ক্যান্টনমেন্ট",
+		"isMajorHub": false,
+		"aliases": ["jahangir gate"],
+		"slug": "jahangir-gate"
+	},
+	{
+		"id": "farmgate",
+		"name": "Farmgate",
+		"nameBn": "ফার্মগেট",
+		"area": "Farmgate",
+		"areaBn": "ফার্মগেট",
+		"isMajorHub": true,
+		"aliases": ["farmgate", "khamar bari", "খামার বাড়ি"],
+		"slug": "farmgate"
+	},
+	{
+		"id": "karwan-bazar",
+		"name": "Karwan Bazar",
+		"nameBn": "কারওয়ান বাজার",
+		"area": "Central Dhaka",
+		"areaBn": "কেন্দ্রীয় ঢাকা",
+		"isMajorHub": true,
+		"aliases": ["karwan bazar", "kawran bazar", "panthopoth"],
+		"slug": "karwan-bazar"
+	},
+	{
+		"id": "banglamotor",
+		"name": "Banglamotor",
+		"nameBn": "বাংলা মোটর",
+		"area": "Central Dhaka",
+		"areaBn": "কেন্দ্রীয় ঢাকা",
+		"isMajorHub": false,
+		"aliases": ["banglamotor", "sonargaon"],
+		"slug": "banglamotor"
+	},
+	{
+		"id": "mogbazar",
+		"name": "Mogbazar",
+		"nameBn": "মগবাজার",
+		"area": "Central Dhaka",
+		"areaBn": "কেন্দ্রীয় ঢাকা",
+		"isMajorHub": true,
+		"aliases": ["mogbazar", "moghbazar", "মগবাজার ওয়্যারলেস"],
+		"slug": "mogbazar"
+	},
+	{
+		"id": "nabisco",
+		"name": "Nabisco",
+		"nameBn": "নাবিস্কো",
+		"area": "Tejgaon",
+		"areaBn": "তেজগাঁও",
+		"isMajorHub": false,
+		"aliases": ["nabisco", "sat rasta", "সাত রাস্তা"],
+		"slug": "nabisco"
+	},
+	{
+		"id": "mohakhali",
+		"name": "Mohakhali",
+		"nameBn": "মহাখালী",
+		"area": "Mohakhali",
+		"areaBn": "মহাখালী",
+		"isMajorHub": true,
+		"aliases": ["mohakhali bus terminal", "wireless", "ওয়্যারলেস", "chairman bari"],
+		"slug": "mohakhali"
+	},
+	{
+		"id": "banani",
+		"name": "Banani",
+		"nameBn": "বনানী",
+		"area": "Banani",
+		"areaBn": "বনানী",
+		"isMajorHub": true,
+		"aliases": ["banani kakoli", "kakali", "কাকলী", "sainik club", "staff road"],
+		"slug": "banani"
+	},
+	{
+		"id": "gulshan-1",
+		"name": "Gulshan 1",
+		"nameBn": "গুলশান ১",
+		"area": "Gulshan",
+		"areaBn": "গুলশান",
+		"isMajorHub": true,
+		"aliases": ["gulshan 1", "police plaza"],
+		"slug": "gulshan-1"
+	},
+	{
+		"id": "gulshan-2",
+		"name": "Gulshan 2",
+		"nameBn": "গুলশান ২",
+		"area": "Gulshan",
+		"areaBn": "গুলশান",
+		"isMajorHub": true,
+		"aliases": ["gulshan 2"],
+		"slug": "gulshan-2"
+	},
+	{
+		"id": "badda",
+		"name": "Badda",
+		"nameBn": "বাড্ডা",
+		"area": "Badda",
+		"areaBn": "বাড্ডা",
+		"isMajorHub": true,
+		"aliases": ["badda", "uttar badda", "madhya badda", "merul badda", "badda link road"],
+		"slug": "badda"
+	},
+	{
+		"id": "shahjadpur",
+		"name": "Shahjadpur",
+		"nameBn": "শাহজাদপুর",
+		"area": "Badda",
+		"areaBn": "বাড্ডা",
+		"isMajorHub": false,
+		"aliases": ["shahjadpur", "bashtola", "বাঁশতলা"],
+		"slug": "shahjadpur"
+	},
+	{
+		"id": "notun-bazar",
+		"name": "Notun Bazar",
+		"nameBn": "নতুন বাজার",
+		"area": "Badda / Baridhara",
+		"areaBn": "বাড্ডা / বারিধারা",
+		"isMajorHub": true,
+		"aliases": ["notun bazar", "nadda", "নদ্দা"],
+		"slug": "notun-bazar"
+	},
+	{
+		"id": "bashundhara-gate",
+		"name": "Bashundhara Gate",
+		"nameBn": "বসুন্ধরা গেট",
+		"area": "Kuril / Bashundhara",
+		"areaBn": "কুড়িল / বসুন্ধরা",
+		"isMajorHub": true,
+		"aliases": ["bashundhara", "jamuna future park", "যমুনা ফিউচার পার্ক"],
+		"slug": "bashundhara-gate"
+	},
+	{
+		"id": "kuril-bishwa-road",
+		"name": "Kuril Bishwa Road",
+		"nameBn": "কুড়িল বিশ্বরোড",
+		"area": "Kuril",
+		"areaBn": "কুড়িল",
+		"isMajorHub": true,
+		"aliases": ["kuril", "kuril flyover", "shewra", "শেওড়া", "mes"],
+		"slug": "kuril-bishwa-road"
+	},
+	{
+		"id": "khilkhet",
+		"name": "Khilkhet",
+		"nameBn": "খিলক্ষেত",
+		"area": "Airport",
+		"areaBn": "বিমানবন্দর",
+		"isMajorHub": false,
+		"aliases": ["khilkhet", "খিলক্ষেত"],
+		"slug": "khilkhet"
+	},
+	{
+		"id": "airport",
+		"name": "Airport",
+		"nameBn": "বিমানবন্দর",
+		"area": "Airport",
+		"areaBn": "বিমানবন্দর",
+		"isMajorHub": true,
+		"aliases": ["airport", "dhaka airport", "kawlar"],
+		"slug": "airport"
+	},
+	{
+		"id": "uttara-joshimuddin",
+		"name": "Uttara (Joshimuddin)",
+		"nameBn": "উত্তরা (জসীমউদ্দীন)",
+		"area": "Uttara",
+		"areaBn": "উত্তরা",
+		"isMajorHub": false,
+		"aliases": ["joshimuddin", "rajlakshmi", "রাজলক্ষ্মী"],
+		"slug": "uttara-joshimuddin"
+	},
+	{
+		"id": "uttara-azampur",
+		"name": "Uttara (Azampur)",
+		"nameBn": "উত্তরা (আজমপুর)",
+		"area": "Uttara",
+		"areaBn": "উত্তরা",
+		"isMajorHub": true,
+		"aliases": ["azampur", "আজমপুর"],
+		"slug": "uttara-azampur"
+	},
+	{
+		"id": "uttara-house-building",
+		"name": "Uttara (House Building)",
+		"nameBn": "উত্তরা (হাউজ বিল্ডিং)",
+		"area": "Uttara",
+		"areaBn": "উত্তরা",
+		"isMajorHub": true,
+		"aliases": ["house building"],
+		"slug": "uttara-house-building"
+	},
+	{
+		"id": "uttara-abdullahpur",
+		"name": "Uttara (Abdullahpur)",
+		"nameBn": "উত্তরা (আব্দুল্লাহপুর)",
+		"area": "Uttara",
+		"areaBn": "উত্তরা",
+		"isMajorHub": true,
+		"aliases": ["abdullahpur", "kamarpara", "কামারপাড়া", "dhour"],
+		"slug": "uttara-abdullahpur"
+	},
+	{
+		"id": "tongi",
+		"name": "Tongi",
+		"nameBn": "টঙ্গী",
+		"area": "Gazipur / Tongi",
+		"areaBn": "গাজীপুর / টঙ্গী",
+		"isMajorHub": true,
+		"aliases": ["tongi", "station road", "mill gate", "board bazar", "gazipur chourasta"],
+		"slug": "tongi"
+	},
+	{
+		"id": "rampura",
+		"name": "Rampura",
+		"nameBn": "রামপুরা",
+		"area": "Rampura",
+		"areaBn": "রামপুরা",
+		"isMajorHub": true,
+		"aliases": ["rampura bridge", "rampura bazar", "hazipara", "হাজীপাড়া"],
+		"slug": "rampura"
+	},
+	{
+		"id": "banasree",
+		"name": "Banasree",
+		"nameBn": "বনশ্রী",
+		"area": "Rampura",
+		"areaBn": "রামপুরা",
+		"isMajorHub": false,
+		"aliases": ["banasree", "south banasree"],
+		"slug": "banasree"
+	},
+	{
+		"id": "demra",
+		"name": "Demra Staff Quarter",
+		"nameBn": "ডেমরা স্টাফ কোয়ার্টার",
+		"area": "Demra",
+		"areaBn": "ডেমরা",
+		"isMajorHub": true,
+		"aliases": ["demra", "staff quarter"],
+		"slug": "demra"
+	},
+	{
+		"id": "signboard",
+		"name": "Signboard",
+		"nameBn": "সাইনবোর্ড",
+		"area": "Jatrabari / Narayanganj",
+		"areaBn": "যাত্রাবাড়ী / নারায়ণগঞ্জ",
+		"isMajorHub": true,
+		"aliases": ["signboard", "sign board", "matuail", "rayerbag", "shonir akhra"],
+		"slug": "signboard"
+	},
+	{
+		"id": "chittagong-road",
+		"name": "Chittagong Road",
+		"nameBn": "চট্টগ্রাম রোড",
+		"area": "Narayanganj Highway",
+		"areaBn": "চট্টগ্রাম হাইওয়ে",
+		"isMajorHub": true,
+		"aliases": ["chittagong road", "kanchpur", "madanpur"],
+		"slug": "chittagong-road"
+	},
+	{
+		"id": "gabtoli",
+		"name": "Gabtoli",
+		"nameBn": "গাবতলী",
+		"area": "Gabtoli",
+		"areaBn": "গাবতলী",
+		"isMajorHub": true,
+		"aliases": ["gabtoli", "amin bazar", "আমিন বাজার", "মাজার রোড"],
+		"slug": "gabtoli"
+	},
+	{
+		"id": "hemayetpur",
+		"name": "Hemayetpur",
+		"nameBn": "হেমায়েতপুর",
+		"area": "Savar",
+		"areaBn": "সাভার",
+		"isMajorHub": false,
+		"aliases": ["hemayetpur"],
+		"slug": "hemayetpur"
+	},
+	{
+		"id": "savar",
+		"name": "Savar",
+		"nameBn": "সাভার",
+		"area": "Savar",
+		"areaBn": "সাভার",
+		"isMajorHub": true,
+		"aliases": ["savar", "nobinagar", "নবীনগর", "baipayl", "zirani", "nandan park", "chandra"],
+		"slug": "savar"
+	}
+]
