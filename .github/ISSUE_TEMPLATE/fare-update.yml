@@ -1,0 +1,36 @@
+name: Fare Update Report
+description: Report a changed or updated bus fare
+title: 'Fare Update: [From] to [To]'
+labels: ['transit-data', 'fare-update']
+body:
+  - type: input
+    id: bus_name
+    attributes:
+      label: Bus Name
+      placeholder: e.g. Raida Enterprise
+    validations:
+      required: true
+  - type: input
+    id: segment
+    attributes:
+      label: From Location to To Location
+      placeholder: e.g. Rampura to Airport
+    validations:
+      required: true
+  - type: input
+    id: current_display
+    attributes:
+      label: Currently Displayed Fare (BDT)
+      placeholder: e.g. ৳20
+  - type: input
+    id: updated_fare
+    attributes:
+      label: Actual Charged Fare (BDT)
+      placeholder: e.g. ৳25
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Verification / Evidence (Optional)
+      placeholder: Mention if this is a recent BRTA rate chart or commuter ticket

@@ -1,0 +1,45 @@
+@import 'tailwindcss';
+
+@theme {
+	--font-sans:
+		'Hind Siliguri', 'Noto Sans Bengali', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+		Roboto, 'Helvetica Neue', Arial, sans-serif;
+	--font-mono: 'JetBrains Mono', ui-monospace, monospace;
+	--font-bengali: 'Hind Siliguri', 'Noto Sans Bengali', 'Kalpurush', 'SolaimanLipi', sans-serif;
+
+	--color-transit-emerald: #047857;
+	--color-transit-emerald-dark: #065f46;
+	--color-transit-emerald-light: #10b981;
+	--color-transit-amber: #d97706;
+	--color-transit-slate: #0f172a;
+}
+
+@layer base {
+	* {
+		border-color: #e2e8f0;
+	}
+	body {
+		font-family: var(--font-sans);
+		font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11';
+		text-rendering: optimizeLegibility;
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+	}
+	:lang(bn) {
+		font-family: 'Hind Siliguri', 'Noto Sans Bengali', 'Kalpurush', 'SolaimanLipi', sans-serif;
+		line-height: 1.6;
+	}
+}
+
+/* Custom transit utility classes */
+.ticket-border {
+	position: relative;
+	background-image:
+		radial-gradient(circle at 0% 50%, transparent 10px, white 10px),
+		radial-gradient(circle at 100% 50%, transparent 10px, white 10px);
+}
+
+.ticket-dashed-divider {
+	border-top: 2px dashed #cbd5e1;
+	margin: 0 -1rem;
+}

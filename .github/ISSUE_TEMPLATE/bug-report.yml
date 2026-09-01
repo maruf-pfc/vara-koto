@@ -1,0 +1,24 @@
+name: Bug Report
+description: Report a software bug or UI glitch
+title: 'Bug: [Brief Description]'
+labels: ['bug']
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Bug Description
+      placeholder: Describe the unexpected behavior
+    validations:
+      required: true
+  - type: input
+    id: browser_device
+    attributes:
+      label: Device & Browser
+      placeholder: e.g. Chrome on Android 14 / Safari on iOS
+  - type: textarea
+    id: steps_to_reproduce
+    attributes:
+      label: Steps to Reproduce
+      placeholder: 1. Go to '/route/mirpur-10/to/farmgate'...
+    validations:
+      required: true

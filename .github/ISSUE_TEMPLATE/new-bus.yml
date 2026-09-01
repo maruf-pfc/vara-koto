@@ -1,0 +1,45 @@
+name: Add New Bus
+description: Suggest a new Dhaka public bus and its route
+title: 'New Bus: [Bus Name]'
+labels: ['transit-data', 'new-bus']
+body:
+  - type: markdown
+    attributes:
+      value: 'Thank you for contributing verified Dhaka transit data!'
+  - type: input
+    id: bus_name
+    attributes:
+      label: Bus Name (English & Bangla)
+      placeholder: e.g. Victor Classic (ভিক্টর ক্লাসিক)
+    validations:
+      required: true
+  - type: dropdown
+    id: operator_type
+    attributes:
+      label: Service Type
+      options:
+        - Regular Service
+        - Seating Service
+        - AC Express
+        - BRTC
+    validations:
+      required: true
+  - type: input
+    id: origin_dest
+    attributes:
+      label: Route Origin & Destination
+      placeholder: e.g. Sadarghat to Uttara (Abdullahpur)
+    validations:
+      required: true
+  - type: textarea
+    id: stop_sequence
+    attributes:
+      label: Full Stop Sequence (in order)
+      placeholder: e.g. Sadarghat -> Gulistan -> Paltan -> Kakrail -> Malibagh -> Rampura -> Badda -> Kuril -> Airport -> Uttara
+    validations:
+      required: true
+  - type: input
+    id: fare_info
+    attributes:
+      label: Approximate Fare or Key Segment Fares
+      placeholder: e.g. Min ৳15, Max ৳60
