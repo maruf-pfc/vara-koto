@@ -43,7 +43,7 @@ test.describe('Dhaka Bus Vara E2E User Journeys', () => {
 
 		// Verify result page displays direct bus options (e.g. Bikalpa Auto or Shikhor)
 		await expect(page.locator('a[href="/bus/bikalpa-auto"]').first()).toBeVisible();
-		await expect(page.getByText(/15–20|১৫–২০/).first()).toBeVisible();
+		await expect(page.getByText(/15|১৫/).first()).toBeVisible();
 	});
 
 	test('swapping origin and destination redirects to reverse route', async ({ page }) => {

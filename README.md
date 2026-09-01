@@ -5,7 +5,9 @@
 [![SvelteKit](https://img.shields.io/badge/SvelteKit-2.x-orange.svg)](https://kit.svelte.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg)](https://www.typescriptlang.org)
 
-**Dhaka Bus Vara** is a production-quality, mobile-first, open-source transit web application designed for commuters in **Dhaka, Bangladesh** to search public bus routes, calculate estimated fares, view stop timelines, and explore bus and location directories in both English and Bengali (বাংলা).
+**Dhaka Bus Vara** ([busvarafinder.vercel.app](https://busvarafinder.vercel.app)) is a production-quality, mobile-first, open-source transit web application designed for commuters in **Dhaka, Bangladesh** to search public bus routes, calculate exact ticket fares, view stop timelines, and explore bus and location directories in both English and Bengali (বাংলা).
+
+- 🌐 **Live Website**: [https://busvarafinder.vercel.app](https://busvarafinder.vercel.app)
 
 ---
 

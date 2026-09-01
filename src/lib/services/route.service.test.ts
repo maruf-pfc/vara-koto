@@ -37,7 +37,8 @@ describe('RouteService Unit Tests', () => {
 			'farmgate'
 		);
 		expect(bikalpaOption.fare.fareMin).toBe(15);
-		expect(bikalpaOption.fare.fareMax).toBe(20);
+		expect(bikalpaOption.fare.fareMax).toBe(15);
+		expect(bikalpaOption.fare.isExact).toBe(true);
 	});
 
 	it('should find direct reverse bus journeys on bidirectional routes (Farmgate to Mirpur 10)', () => {

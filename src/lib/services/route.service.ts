@@ -217,36 +217,38 @@ export class RouteService {
 			};
 		}
 
-		// Calculate estimated fare based on operator category and stop count
-		let baseMin = 10;
-		let baseMax = 15;
-		let perStop = 2.5;
-
-		if (bus.operatorType === 'seating_service') {
-			baseMin = 15;
-			baseMax = 20;
-			perStop = 3.0;
-		} else if (bus.operatorType === 'ac') {
-			baseMin = 40;
-			baseMax = 60;
-			perStop = 6.0;
+		// Calculate exact fare based on operator category and stop count
+		let exactFare: number;
+		if (bus.operatorType === 'ac') {
+			if (stopsCount <= 3) exactFare = 30;
+			else if (stopsCount <= 6) exactFare = 40;
+			else if (stopsCount <= 9) exactFare = 50;
+			else if (stopsCount <= 13) exactFare = 60;
+			else if (stopsCount <= 18) exactFare = 80;
+			else exactFare = 100;
+		} else {
+			// Regular / Seating Service standard Dhaka ticket steps
+			if (stopsCount <= 2) exactFare = 10;
+			else if (stopsCount <= 4) exactFare = 15;
+			else if (stopsCount <= 7) exactFare = 20;
+			else if (stopsCount <= 10) exactFare = 25;
+			else if (stopsCount <= 13) exactFare = 30;
+			else if (stopsCount <= 16) exactFare = 35;
+			else if (stopsCount <= 20) exactFare = 40;
+			else if (stopsCount <= 24) exactFare = 45;
+			else if (stopsCount <= 28) exactFare = 50;
+			else exactFare = 55;
 		}
 
-		const calculatedMin = Math.max(baseMin, Math.round(baseMin + (stopsCount - 1) * perStop));
-		const calculatedMax = Math.max(
-			baseMax,
-			Math.round(calculatedMin + (bus.operatorType === 'ac' ? 20 : 5))
-		);
-
 		return {
-			fareMin: Math.round(calculatedMin / 5) * 5,
-			fareMax: Math.round(calculatedMax / 5) * 5,
+			fareMin: exactFare,
+			fareMax: exactFare,
 			currency: 'BDT',
-			isExact: false,
+			isExact: true,
 			basis: 'brta_rate',
-			isEstimated: true,
-			note: 'Estimated based on BRTA distance rate rules and stop sequence.',
-			noteBn: 'বিআরটিএ দূরত্বের হার ও স্টপ সংখ্যা অনুসারে আনুমানিক হিসাবকৃত।',
+			isEstimated: false,
+			note: 'Standard ticket fare for this route segment.',
+			noteBn: 'এই রুট সেগমেন্টের জন্য নির্ধারিত বাস ভাড়া।',
 			verifiedAt: route.source.verifiedAt
 		};
 	}

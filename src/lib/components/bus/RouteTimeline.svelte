@@ -18,7 +18,7 @@
 				<!-- Connecting vertical line -->
 				{#if index < stops.length - 1}
 					<div
-						class="absolute top-6 bottom-[-16px] left-[11px] w-[2px] bg-slate-200"
+						class="absolute top-6 -bottom-4 left-2.75 w-0.5 bg-slate-200"
 						aria-hidden="true"
 					></div>
 				{/if}
