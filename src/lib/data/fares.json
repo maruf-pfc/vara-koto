@@ -11,29 +11,7 @@
 		"verifiedAt": "2026-08-30"
 	},
 	{
-		"routeId": "route-agradut-main",
-		"fromLocationId": "savar",
-		"toLocationId": "gabtoli",
-		"fareMin": 30,
-		"fareMax": 30,
-		"currency": "BDT",
-		"basis": "brta_rate",
-		"isExact": true,
-		"verifiedAt": "2026-08-30"
-	},
-	{
 		"routeId": "route-azmeri-glory-main",
-		"fromLocationId": "sadarghat",
-		"toLocationId": "uttara-abdullahpur",
-		"fareMin": 50,
-		"fareMax": 50,
-		"currency": "BDT",
-		"basis": "brta_rate",
-		"isExact": true,
-		"verifiedAt": "2026-08-30"
-	},
-	{
-		"routeId": "route-supravat-main",
 		"fromLocationId": "sadarghat",
 		"toLocationId": "uttara-abdullahpur",
 		"fareMin": 50,

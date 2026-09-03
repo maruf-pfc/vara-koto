@@ -55,7 +55,7 @@ describe('RouteService Unit Tests', () => {
 		).toBe('mirpur-10');
 	});
 
-	it('should find direct bus options between Rampura and Gulistan (Victor Classic, Akash, Victor Paribahan, Supravat, Green Dhaka)', () => {
+	it('should find direct bus options between Rampura and Gulistan (Victor Classic, Akash, Victor Paribahan, Green Dhaka)', () => {
 		const result = routeService.findJourneys('rampura', 'gulistan');
 		expect(result).not.toBeNull();
 		expect(result?.hasDirectRoutes).toBe(true);
@@ -64,7 +64,6 @@ describe('RouteService Unit Tests', () => {
 		expect(busIds).toContain('victor-classic');
 		expect(busIds).toContain('akash');
 		expect(busIds).toContain('victor-paribahan');
-		expect(busIds).toContain('supravat');
 		expect(busIds).toContain('green-dhaka');
 	});
 

@@ -40,50 +40,6 @@
 		}
 	},
 	{
-		"id": "agradut",
-		"slug": "agradut",
-		"name": "Agradut",
-		"nameBn": "অগ্রদূত",
-		"aliases": ["agradut", "agradut", "অগ্রদূত"],
-		"operatorType": "seating_service",
-		"colorCode": "#e11d48",
-		"serviceHours": {
-			"start": "05:30",
-			"end": "22:30"
-		},
-		"description": "Runs from Savar and Gabtoli via Shyamoli, Agargaon, Bijoy Sarani, Mohakhali, Gulshan 1, Badda to Notun Bazar.",
-		"descriptionBn": "সাভার ও গাবতলী থেকে শ্যামলী, আগারগাঁও, মহাখালী, গুলশান ১ ও বাড্ডা হয়ে নতুন বাজার চলাচল করে।",
-		"source": {
-			"name": "Dhaka Bus Service (DBS) Route Guide",
-			"verifiedAt": "2026-08-30",
-			"confidence": "verified"
-		}
-	},
-	{
-		"id": "airport-bangabandhu-avenue",
-		"slug": "airport-bangabandhu-avenue",
-		"name": "Airport Bangabandhu Avenue",
-		"nameBn": "এয়ারপোর্ট বঙ্গবন্ধু এভিনিউ পরিবহন",
-		"aliases": [
-			"airport-bangabandhu-avenue",
-			"airport bangabandhu avenue",
-			"এয়ারপোর্ট বঙ্গবন্ধু এভিনিউ পরিবহন"
-		],
-		"operatorType": "seating_service",
-		"colorCode": "#059669",
-		"serviceHours": {
-			"start": "06:00",
-			"end": "22:00"
-		},
-		"description": "Direct artery connecting Fulbaria / Gulistan / Motijheel to Shahbag, Farmgate, Mohakhali, Banani, Airport and Abdullahpur.",
-		"descriptionBn": "ফুলবাড়িয়া ও গুলিস্তান থেকে পল্টন, শাহবাগ, ফার্মগেট, মহাখালী, বনানী ও বিমানবন্দর হয়ে আব্দুল্লাহপুর চলাচল করে।",
-		"source": {
-			"name": "Dhaka Bus Service (DBS) Route Guide",
-			"verifiedAt": "2026-08-30",
-			"confidence": "verified"
-		}
-	},
-	{
 		"id": "azmeri-glory",
 		"slug": "azmeri-glory",
 		"name": "Azmeri Glory Limited",
@@ -157,26 +113,6 @@
 		},
 		"description": "Runs from Sadarghat / Gulistan through Malibagh, Rampura, Badda to Kuril Bishwa Road.",
 		"descriptionBn": "সদরঘাট ও গুলিস্তান থেকে পল্টন, মালিবাগ, রামপুরা, বাড্ডা হয়ে কুড়িল বিশ্বরোড চলাচল করে।",
-		"source": {
-			"name": "Dhaka Bus Service (DBS) Route Guide",
-			"verifiedAt": "2026-08-30",
-			"confidence": "verified"
-		}
-	},
-	{
-		"id": "supravat",
-		"slug": "supravat",
-		"name": "Supravat",
-		"nameBn": "সুপ্রভাত",
-		"aliases": ["supravat", "supravat", "সুপ্রভাত"],
-		"operatorType": "seating_service",
-		"colorCode": "#16a34a",
-		"serviceHours": {
-			"start": "06:00",
-			"end": "22:00"
-		},
-		"description": "Connects Sadarghat / Gulistan via Malibagh, Rampura, Badda, Notun Bazar, Kuril, Airport, Uttara and Tongi.",
-		"descriptionBn": "সদরঘাট ও গুলিস্তান থেকে মালিবাগ, রামপুরা, বাড্ডা, নতুন বাজার, কুড়িল, বিমানবন্দর, উত্তরা ও টঙ্গী চলাচল করে।",
 		"source": {
 			"name": "Dhaka Bus Service (DBS) Route Guide",
 			"verifiedAt": "2026-08-30",
@@ -628,26 +564,6 @@
 		}
 	},
 	{
-		"id": "falgun-art",
-		"slug": "falgun-art",
-		"name": "Falgun Art Transport",
-		"nameBn": "ফাল্গুন আর্ট ট্রান্সপোর্ট",
-		"aliases": ["falgun-art", "falgun art transport", "ফাল্গুন আর্ট ট্রান্সপোর্ট"],
-		"operatorType": "seating_service",
-		"colorCode": "#ec4899",
-		"serviceHours": {
-			"start": "06:00",
-			"end": "22:00"
-		},
-		"description": "Connects Azimpur, Science Lab, Shahbag, Kakrail, Malibagh, Rampura, Badda, Kuril, Airport to Uttara.",
-		"descriptionBn": "আজিমপুর, সায়েন্স ল্যাব, শাহবাগ, কাকরাইল, মালিবাগ, রামপুরা, বাড্ডা, কুড়িল ও বিমানবন্দর হয়ে উত্তরা চলাচল করে।",
-		"source": {
-			"name": "Dhaka Bus Service (DBS) Route Guide",
-			"verifiedAt": "2026-08-30",
-			"confidence": "verified"
-		}
-	},
-	{
 		"id": "manjil-express",
 		"slug": "manjil-express",
 		"name": "Manjil Express",
@@ -688,26 +604,6 @@
 		}
 	},
 	{
-		"id": "six-no",
-		"slug": "six-no",
-		"name": "6 No.",
-		"nameBn": "৬নং",
-		"aliases": ["six-no", "6 no.", "৬নং"],
-		"operatorType": "regular",
-		"colorCode": "#2563eb",
-		"serviceHours": {
-			"start": "06:00",
-			"end": "22:00"
-		},
-		"description": "Connects Kamalapur, Motijheel, Gulistan, Paltan, Kakrail, Malibagh, Mouchak, Mogbazar, Farmgate, Mohakhali, Gulshan 1/2 to Notun Bazar.",
-		"descriptionBn": "কমলাপুর, মতিঝিল, গুলিস্তান, কাকরাইল, মৌচাক, মগবাজার, ফার্মগেট, মহাখালী ও গুলশান হয়ে নতুন বাজার চলাচল করে।",
-		"source": {
-			"name": "Dhaka Bus Service (DBS) Route Guide",
-			"verifiedAt": "2026-08-30",
-			"confidence": "verified"
-		}
-	},
-	{
 		"id": "seven-no",
 		"slug": "seven-no",
 		"name": "7 No.",
@@ -728,46 +624,6 @@
 		}
 	},
 	{
-		"id": "eight-no",
-		"slug": "eight-no",
-		"name": "8 No.",
-		"nameBn": "৮নং",
-		"aliases": ["eight-no", "8 no.", "৮নং"],
-		"operatorType": "regular",
-		"colorCode": "#0f766e",
-		"serviceHours": {
-			"start": "06:00",
-			"end": "22:00"
-		},
-		"description": "Connects Jatrabari / Sayedabad to Motijheel, Paltan, Shahbag, Farmgate, Shyamoli and Gabtoli.",
-		"descriptionBn": "যাত্রাবাড়ী ও সায়েদাবাদ থেকে মতিঝিল, পল্টন, শাহবাগ, ফার্মগেট ও শ্যামলী হয়ে গাবতলী চলাচল করে।",
-		"source": {
-			"name": "Dhaka Bus Service (DBS) Route Guide",
-			"verifiedAt": "2026-08-30",
-			"confidence": "verified"
-		}
-	},
-	{
-		"id": "nine-no",
-		"slug": "nine-no",
-		"name": "9 No.",
-		"nameBn": "৯নং",
-		"aliases": ["nine-no", "9 no.", "৯নং"],
-		"operatorType": "regular",
-		"colorCode": "#854d0e",
-		"serviceHours": {
-			"start": "06:00",
-			"end": "22:00"
-		},
-		"description": "Runs from College Gate / Shyamoli via Technical, Bangla College, Mirpur 1, Mirpur 2 to Mirpur 12.",
-		"descriptionBn": "কলেজ গেট ও শ্যামলী থেকে টেকনিক্যাল, বাংলা কলেজ, মিরপুর ১ ও ২ হয়ে মিরপুর ১২ চলাচল করে।",
-		"source": {
-			"name": "Dhaka Bus Service (DBS) Route Guide",
-			"verifiedAt": "2026-08-30",
-			"confidence": "verified"
-		}
-	},
-	{
 		"id": "thirteen-no",
 		"slug": "thirteen-no",
 		"name": "13 No.",
@@ -781,26 +637,6 @@
 		},
 		"description": "Direct shuttle connecting Mohammadpur, Shankar, Jigatola, Science Lab, New Market, Nilkhet to Azimpur.",
 		"descriptionBn": "মোহাম্মদপুর, শঙ্কর, জিগাতলা, সায়েন্স ল্যাব, নিউ মার্কেট ও নীলক্ষেত হয়ে আজিমপুর চলাচল করে।",
-		"source": {
-			"name": "Dhaka Bus Service (DBS) Route Guide",
-			"verifiedAt": "2026-08-30",
-			"confidence": "verified"
-		}
-	},
-	{
-		"id": "four-no",
-		"slug": "four-no",
-		"name": "4 No. Alike",
-		"nameBn": "৪নং",
-		"aliases": ["four-no", "4 no. alike", "৪নং"],
-		"operatorType": "regular",
-		"colorCode": "#1e3a8a",
-		"serviceHours": {
-			"start": "06:00",
-			"end": "22:00"
-		},
-		"description": "Connects Cantonment / Bijoy Sarani via Farmgate, Bangla Motor, Shahbag, Paltan, Gulistan to Motijheel.",
-		"descriptionBn": "ক্যান্টনমেন্ট ও বিজয় সরণি থেকে ফার্মগেট, শাহবাগ, পল্টন ও গুলিস্তান হয়ে মতিঝিল চলাচল করে।",
 		"source": {
 			"name": "Dhaka Bus Service (DBS) Route Guide",
 			"verifiedAt": "2026-08-30",
