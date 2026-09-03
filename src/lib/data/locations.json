@@ -1298,5 +1298,25 @@
 		"isMajorHub": true,
 		"aliases": ["savar", "nobinagar", "নবীনগর", "baipayl", "zirani", "nandan park", "chandra"],
 		"slug": "savar"
+	},
+	{
+		"id": "chashara",
+		"slug": "chashara",
+		"name": "Chashara",
+		"nameBn": "চাষাড়া",
+		"area": "Narayanganj",
+		"areaBn": "নারায়ণগঞ্জ",
+		"isMajorHub": true,
+		"aliases": ["chashara", "chasara", "চাষাড়া", "নারায়ণগঞ্জ", "narayanganj"]
+	},
+	{
+		"id": "chandra",
+		"slug": "chandra",
+		"name": "Chandra",
+		"nameBn": "চন্দ্রা",
+		"area": "Gazipur",
+		"areaBn": "গাজীপুর",
+		"isMajorHub": true,
+		"aliases": ["chandra", "চন্দ্রা", "kaliakoir", "কালিয়াকৈর"]
 	}
 ]

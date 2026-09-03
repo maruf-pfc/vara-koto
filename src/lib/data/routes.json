@@ -4838,5 +4838,154 @@
 			"verifiedAt": "2026-08-30",
 			"confidence": "verified"
 		}
+	},
+	{
+		"id": "route-moumita-main",
+		"busId": "moumita",
+		"name": "Chashara to Chandra",
+		"nameBn": "চাষাড়া হতে চন্দ্রা",
+		"originId": "chashara",
+		"destinationId": "chandra",
+		"stops": [
+			{
+				"locationId": "chashara",
+				"order": 1,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "signboard",
+				"order": 2,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "jatrabari",
+				"order": 3,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "sayedabad",
+				"order": 4,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gulistan",
+				"order": 5,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "chankhar-pul",
+				"order": 6,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "bakshi-bazar",
+				"order": 7,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "azimpur",
+				"order": 8,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "nilkhet",
+				"order": 9,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "new-market",
+				"order": 10,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "science-lab",
+				"order": 11,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "city-college",
+				"order": 12,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kalabagan",
+				"order": 13,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "dhanmondi-32",
+				"order": 14,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "dhanmondi-27",
+				"order": 15,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "asad-gate",
+				"order": 16,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "college-gate",
+				"order": 17,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shishu-mela",
+				"order": 18,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "shyamoli",
+				"order": 19,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "kallyanpur",
+				"order": 20,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "darussalam",
+				"order": 21,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "technical",
+				"order": 22,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "gabtoli",
+				"order": 23,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "hemayetpur",
+				"order": 24,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "savar",
+				"order": 25,
+				"isRequestStop": false
+			},
+			{
+				"locationId": "chandra",
+				"order": 26,
+				"isRequestStop": false
+			}
+		],
+		"bidirectional": true,
+		"approximateDistanceKm": 42,
+		"notes": "Long-distance inter-district artery connecting Narayanganj and Gazipur across central Dhaka.",
+		"notesBn": "নারায়ণগঞ্জ ও গাজীপুরকে ঢাকার কেন্দ্রীয় রুট দিয়ে সংযুক্তকারী দীর্ঘ দূরত্বের বাস সার্ভিস।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
 	}
 ]

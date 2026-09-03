@@ -75,6 +75,15 @@ describe('RouteService Unit Tests', () => {
 		expect(result!.directOptions.some((o) => o.bus.id === 'savar-paribahan')).toBe(true);
 	});
 
+	it('should find Moumita Paribahan between Signboard and Gabtoli', () => {
+		const result = routeService.findJourneys('signboard', 'gabtoli');
+		expect(result).not.toBeNull();
+		expect(result?.hasDirectRoutes).toBe(true);
+		const moumitaOption = result!.directOptions.find((o) => o.bus.id === 'moumita');
+		expect(moumitaOption).toBeDefined();
+		expect(moumitaOption?.fare.fareMin).toBe(40);
+	});
+
 	it('should return null if origin and destination are the same', () => {
 		const result = routeService.findJourneys('mirpur-10', 'mirpur-10');
 		expect(result).toBeNull();

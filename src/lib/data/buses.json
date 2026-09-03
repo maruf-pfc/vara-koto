@@ -906,5 +906,25 @@
 			"verifiedAt": "2026-08-30",
 			"confidence": "verified"
 		}
+	},
+	{
+		"id": "moumita",
+		"slug": "moumita",
+		"name": "Moumita Paribahan",
+		"nameBn": "মৌমিতা পরিবহন",
+		"aliases": ["moumita", "moumita paribahan", "মৌমিতা", "মৌমিতা পরিবহন"],
+		"operatorType": "seating_service",
+		"colorCode": "#c026d3",
+		"serviceHours": {
+			"start": "05:30",
+			"end": "22:30"
+		},
+		"description": "Connects Chashara and Signboard to Savar and Chandra via Jatrabari, Sayedabad, Gulistan, Azimpur, Science Lab, Dhanmondi, Shyamoli, and Gabtoli.",
+		"descriptionBn": "চাষাড়া ও সাইনবোর্ড থেকে যাত্রাবাড়ী, সায়েদাবাদ, গুলিস্তান, আজিমপুর, সায়েন্স ল্যাব, ধানমন্ডি, শ্যামলী ও গাবতলী হয়ে সাভার ও চন্দ্রা চলাচল করে।",
+		"source": {
+			"name": "Dhaka Bus Service (DBS) Route Guide",
+			"verifiedAt": "2026-08-30",
+			"confidence": "verified"
+		}
 	}
 ]

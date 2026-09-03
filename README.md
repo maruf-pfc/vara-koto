@@ -21,7 +21,7 @@
 - **Direct Bus Comparison**: See all buses serving your selected journey with verified fares, stop counts, and estimated duration.
 - **Stop Timeline & Sequence**: Visual route timeline highlighting origin, destination, and intermediate stops.
 - **Directional Routing**: Handles one-way and bidirectional routes correctly based on stop sequence.
-- **Bus Directory (`/buses`)**: Browse, search, and filter verified Dhaka bus lines (Bahon, Victor Classic, Akash, Raida, Bihanga, Turag, Winner, Anabil, Shikor, Alif, Projapoti, Savar, Basumati, Thikana, etc.).
+- **Bus Directory (`/buses`)**: Browse, search, and filter verified Dhaka bus lines (Bahon, Victor Classic, Akash, Raida, Bihanga, Turag, Winner, Anabil, Shikor, Alif, Projapoti, Savar, Basumati, Thikana, Moumita, etc.).
 - **Location Directory (`/locations`)**: Explore Dhaka transit hubs and stops grouped by area (Mirpur, Uttara, Dhanmondi, Farmgate, Motijheel, Old Dhaka, Badda, Savar, etc.).
 - **Data Provenance & Transparency**: Every transport record includes `source`, `verifiedAt`, and confidence level (`verified` | `community-reported`).
 - **Bilingual Support (English & বাংলা)**: Instant locale toggle across all UI strings, aliases, and stop names.
