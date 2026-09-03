@@ -13,6 +13,14 @@
 		name="description"
 		content="About Dhaka Bus Vara - A free, open-source transit tool built specifically for daily commuters in Dhaka, Bangladesh."
 	/>
+	<link rel="canonical" href="https://busvarafinder.vercel.app/about" />
+	<meta property="og:title" content="About Dhaka Bus Vara | আমাদের সম্পর্কে" />
+	<meta
+		property="og:description"
+		content="A free, open-source transit tool built specifically for daily commuters in Dhaka, Bangladesh."
+	/>
+	<meta property="og:url" content="https://busvarafinder.vercel.app/about" />
+	<meta property="og:type" content="website" />
 </svelte:head>
 
 <div class="mx-auto max-w-4xl space-y-10 px-4 py-6 sm:px-6 sm:py-10">

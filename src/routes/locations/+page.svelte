@@ -43,6 +43,25 @@
 		name="description"
 		content="Browse all bus stops, major transport intersections, and locations in Dhaka with connected bus routes."
 	/>
+	<link rel="canonical" href="https://busvarafinder.vercel.app/locations" />
+	<meta
+		property="og:title"
+		content="ঢাকার বাস স্টপেজ ও গুরুত্বপূর্ণ এলাকাসমূহ | Dhaka Transit Hubs"
+	/>
+	<meta
+		property="og:description"
+		content="Browse all bus stops, major transport intersections, and locations in Dhaka with connected bus routes."
+	/>
+	<meta property="og:url" content="https://busvarafinder.vercel.app/locations" />
+	<meta property="og:type" content="website" />
+	{@html `<script type="application/ld+json">${JSON.stringify({
+		'@context': 'https://schema.org',
+		'@type': 'CollectionPage',
+		name: 'Dhaka Transit Locations and Bus Stops',
+		description:
+			'Directory of major transit hubs, intersections, and bus stops across Dhaka metropolitan area.',
+		url: 'https://busvarafinder.vercel.app/locations'
+	})}</` + 'script>'}
 </svelte:head>
 
 <div class="mx-auto max-w-6xl space-y-8 px-4 py-6 sm:px-6 sm:py-10">

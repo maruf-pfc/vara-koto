@@ -50,6 +50,21 @@
 		name="description"
 		content="Explore all verified public buses in Dhaka with complete stop lists, fares, operating hours, and route directions."
 	/>
+	<link rel="canonical" href="https://busvarafinder.vercel.app/buses" />
+	<meta property="og:title" content="ঢাকার সকল বাসের তালিকা ও রুট | Dhaka Bus Directory" />
+	<meta
+		property="og:description"
+		content="Explore all verified public buses in Dhaka with complete stop lists, fares, operating hours, and route directions."
+	/>
+	<meta property="og:url" content="https://busvarafinder.vercel.app/buses" />
+	<meta property="og:type" content="website" />
+	{@html `<script type="application/ld+json">${JSON.stringify({
+		'@context': 'https://schema.org',
+		'@type': 'CollectionPage',
+		name: 'Dhaka Bus Directory',
+		description: 'Complete verified directory of public transit buses operating across Dhaka.',
+		url: 'https://busvarafinder.vercel.app/buses'
+	})}</` + 'script>'}
 </svelte:head>
 
 <div class="mx-auto max-w-6xl space-y-8 px-4 py-6 sm:px-6 sm:py-10">

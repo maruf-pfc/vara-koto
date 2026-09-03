@@ -2,7 +2,7 @@ import type { RequestHandler } from './$types';
 import { transportRepository } from '$lib/repositories/transport.repository';
 
 export const GET: RequestHandler = async ({ url }) => {
-	const origin = url.origin;
+	const origin = url.origin.includes('localhost') ? 'https://busvarafinder.vercel.app' : url.origin;
 	const buses = transportRepository.getAllBuses();
 	const locations = transportRepository.getAllLocations();
 	const routes = transportRepository.getAllRoutes();

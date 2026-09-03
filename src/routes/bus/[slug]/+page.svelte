@@ -54,9 +54,13 @@
 <svelte:head>
 	<title>{pageTitle}</title>
 	<meta name="description" content={metaDescription} />
+	<link rel="canonical" href={`https://busvarafinder.vercel.app/bus/${data.bus.slug}`} />
 	<meta property="og:title" content={pageTitle} />
 	<meta property="og:description" content={metaDescription} />
+	<meta property="og:url" content={`https://busvarafinder.vercel.app/bus/${data.bus.slug}`} />
 	<meta property="og:type" content="article" />
+	<meta name="twitter:title" content={pageTitle} />
+	<meta name="twitter:description" content={metaDescription} />
 	{@html `<script type="application/ld+json">${JSON.stringify({
 		'@context': 'https://schema.org',
 		'@type': 'BusService',

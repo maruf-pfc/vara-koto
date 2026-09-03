@@ -21,6 +21,17 @@
 		name="description"
 		content="Learn how Dhaka Bus Vara calculates bus fares, verifies route stops, estimates journey duration, and maintains transportation data accuracy."
 	/>
+	<link rel="canonical" href="https://busvarafinder.vercel.app/methodology" />
+	<meta
+		property="og:title"
+		content="Data & Fare Calculation Methodology | ঢাকা বাস ভাড়া নির্ধারণ পদ্ধতি"
+	/>
+	<meta
+		property="og:description"
+		content="Learn how Dhaka Bus Vara calculates bus fares, verifies route stops, estimates journey duration, and maintains transportation data accuracy."
+	/>
+	<meta property="og:url" content="https://busvarafinder.vercel.app/methodology" />
+	<meta property="og:type" content="website" />
 </svelte:head>
 
 <div class="mx-auto max-w-4xl space-y-10 px-4 py-6 sm:px-6 sm:py-10">

@@ -22,19 +22,43 @@
 <svelte:head>
 	<title
 		>{$locale === 'bn'
-			? 'ঢাকা বাস ভাড়া | বাসের সঠিক রুট ও ভাড়া গাইড'
-			: 'Dhaka Bus Vara | Dhaka Public Bus Fare & Route Guide'}</title
+			? 'ঢাকা বাস ভাড়া ও রুট গাইড | Dhaka Bus Fare & Route Finder'
+			: 'Dhaka Bus Vara | Dhaka Public Bus Fare & Route Finder'}</title
 	>
 	<meta
 		name="description"
-		content="Find direct bus routes and calculate estimated fares across Dhaka, Bangladesh. Search buses like Bahon, Bikolpo, Bihanga, Raida, Turag, and more."
+		content="Find direct bus routes and calculate exact ticket fares across Dhaka, Bangladesh. Search buses like Victor Classic, Bahon, Bikalpa, Raida, Moumita, and more."
 	/>
-	<meta property="og:title" content="Dhaka Bus Vara - Dhaka Public Bus Fare & Route Guide" />
+	<link rel="canonical" href="https://busvarafinder.vercel.app/" />
+	<meta property="og:title" content="ঢাকা বাস ভাড়া ও রুট গাইড | Dhaka Bus Fare & Route Finder" />
 	<meta
 		property="og:description"
-		content="Calculate public bus fares, find direct bus routes, and explore stop timelines in Dhaka, Bangladesh."
+		content="Calculate exact public bus fares, find direct bus routes, and explore stop timelines in Dhaka, Bangladesh."
 	/>
+	<meta property="og:url" content="https://busvarafinder.vercel.app/" />
 	<meta property="og:type" content="website" />
+	<meta name="twitter:title" content="Dhaka Bus Vara - Dhaka Public Bus Fare & Route Finder" />
+	<meta
+		name="twitter:description"
+		content="Calculate exact public bus fares, find direct bus routes, and explore stop timelines in Dhaka, Bangladesh."
+	/>
+	{@html `<script type="application/ld+json">${JSON.stringify({
+		'@context': 'https://schema.org',
+		'@type': 'WebApplication',
+		name: 'Dhaka Bus Vara',
+		alternateName: 'ঢাকা বাস ভাড়া',
+		url: 'https://busvarafinder.vercel.app/',
+		applicationCategory: 'TravelApplication',
+		operatingSystem: 'All',
+		browserRequirements: 'Requires JavaScript. Requires HTML5.',
+		description:
+			'Find direct bus routes, calculate exact ticket fares, and view stop timelines across Dhaka, Bangladesh.',
+		offers: {
+			'@type': 'Offer',
+			price: '0',
+			priceCurrency: 'BDT'
+		}
+	})}</` + 'script>'}
 </svelte:head>
 
 <div class="mx-auto max-w-6xl space-y-12 px-4 py-6 sm:space-y-16 sm:px-6 sm:py-10">

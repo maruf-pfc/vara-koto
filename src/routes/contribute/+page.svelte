@@ -21,6 +21,14 @@
 		name="description"
 		content="Learn how to add new bus routes, update fares, and submit transport corrections to the open-source Dhaka Bus Vara platform."
 	/>
+	<link rel="canonical" href="https://busvarafinder.vercel.app/contribute" />
+	<meta property="og:title" content="Contribute Transport Data | তথ্য ও কোডে অবদান রাখুন" />
+	<meta
+		property="og:description"
+		content="Learn how to add new bus routes, update fares, and submit transport corrections to the open-source Dhaka Bus Vara platform."
+	/>
+	<meta property="og:url" content="https://busvarafinder.vercel.app/contribute" />
+	<meta property="og:type" content="website" />
 </svelte:head>
 
 <div class="mx-auto max-w-4xl space-y-10 px-4 py-6 sm:px-6 sm:py-10">
